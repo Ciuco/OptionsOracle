@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="textBoxDescription.Text" xml:space="preserve">
+    <value>NASDAQ OMX Disclaimer &amp; Copyright
+Disclaimer
+
+Neither The NASDAQ OMX GROUP, Inc., including of its subsidiaries and affiliates (collectively, "NASDAQ OMX"), nor any of the NASDAQ OMX third party information providers ("Information Providers") (nor any of these entities’ officers, employees, directors, or agents): (1) has passed on the merit of any of these securities; or (2) has endorsed or sponsored any of these securities. The information contained herein is provided for informational and educational purposes only, and nothing contained herein should be construed as investment advice, either on behalf of a particular security or an overall investment strategy. ADVICE FROM A SECURITIES PROFESSIONAL IS STRONGLY ADVISED.
+
+All information contained herein is obtained by NASDAQ OMX from sources believed by NASDAQ OMX to be accurate and reliable. Because of the possibility of human and mechanical error as well as other factors, neither NASDAQ OMX nor the Information Providers are responsible for any errors or omissions by either NASDAQ OMX or the Information Providers'. ALL INFORMATION IS PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND. NASDAQ OMX and the Information Providers make no representations and disclaim all express, implied, and statutory warranties of any kind to user and/or any third party including warranties as to accuracy, timeliness, completeness, merchantability, or fitness for any particular purpose.
+
+Unless due to willful tortious misconduct or gross negligence, neither NASDAQ OMX nor the Information Providers shall have any liability in tort, contract, or otherwise (and as permitted by law, product liability), to user and/or any third party.
+Neither NASDAQ OMX nor the Information Providers shall under any circumstance be liable to user (and/or any third party) for any lost profits or lost opportunity, indirect, special, consequential, incidental, or punitive damages whatsoever, even if NASDAQ OMX has been advised of the possibility of such damages.
+
+
+Some U.S. states and foreign countries provide rights in addition to those above or do not allow the exclusion or limitation of implied warranties or liability for incidental or consequential damages. Therefore, the above limitations may not apply to you or there may be state provisions which supersede the above. Any clause of this Disclaimer declared invalid shall be deemed severable and not affect the validity or enforceability of the remainder. The terms of the Disclaimer may only be amended in a writing signed by NASDAQ OMX and are governed by the laws of the State of New York.
+Copyright
+
+The works of authorship contained in this world wide website in the domain "www.NASDAQOMX.com" (the "NASDAQ OMX Site"), including but not limited to all design, text and images, are owned, except as otherwise expressly stated, by The NASDAQ OMX GROUP, Inc. or one of its subsidiaries or affiliates, (collectively, “NASDAQ OMX”) and may not be copied, reproduced, transmitted, displayed, performed, distributed, rented, sublicensed, altered, stored for subsequent use or otherwise used in whole or in part in any manner without the prior written consent of NASDAQ OMX except to the extent that such use constitutes "fair use" under the Copyright Act of 1976 (17 U.S.C. §107), as amended, and except for one temporary copy in a single computer’s memory and one unaltered permanent copy to be used by the viewer for personal and non-commercial use only, with an attached copy of this page containing the NASDAQ OMX Disclaimer and Copyright.
+
+Unless you have a NASDAQ OMX Logo License or other written agreement in effect with NASDAQ OMX which states otherwise, you may only provide a hypertext link to the NASDAQ OMX Site on another website, provided that (a) the link must be a text-only link clearly marked "NASDAQ OMX Home Page" or "NASDAQOMX.com", (b) the link must "point" to the URL "http://www.NASDAQOMX.com" and not to other pages within the NASDAQ OMX Site, (c) the appearance, position and other aspects of the link may not be such as to damage or dilute the goodwill associated with the NASDAQ OMX name and trademarks, (d) the appearance, position and other aspects of the link may not create the false appearance that an entity is associated with or sponsored by NASDAQ OMX, (e) the link, when activated by a user, must display the NASDAQ OMX Site full-screen and not within a "frame" on the linked website, and (f) NASDAQ OMX reserves the right to revoke its consent to the link at any time in its sole discretion.</value>
+  </data>
+</root>

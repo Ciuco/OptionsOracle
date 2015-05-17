@@ -1,0 +1,5459 @@
+<?xml version="1.0" standalone="yes"?>
+<SymbolSet xmlns="http://tempuri.org/SymbolSet.xsd">
+  <SymbolTable>
+    <Name>Genmab</Name>
+    <Symbol>GEN</Symbol>
+    <Isin>DK0010272202</Isin>
+    <Id>CSE11143</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Novozymes B</Name>
+    <Symbol>NZYM B</Symbol>
+    <Isin>DK0010272129</Isin>
+    <Id>CSE11273</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Maconomy</Name>
+    <Symbol>MACO</Symbol>
+    <Isin>DK0010274174</Isin>
+    <Id>CSE11464</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>TDC A/S</Name>
+    <Symbol>TDC</Symbol>
+    <Isin>DK0010253335</Isin>
+    <Id>CSE1154</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Novo Nordisk B</Name>
+    <Symbol>NOVO B</Symbol>
+    <Isin>DK0060102614</Isin>
+    <Id>CSE1158</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Danionics</Name>
+    <Symbol>DANIO</Symbol>
+    <Isin>DK0010271238</Isin>
+    <Id>CSE12275</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Thrane &amp; Thrane</Name>
+    <Symbol>THRAN</Symbol>
+    <Isin>DK0010279215</Isin>
+    <Id>CSE12663</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Danware</Name>
+    <Symbol>DANW</Symbol>
+    <Isin>DK0010288125</Isin>
+    <Id>CSE13416</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>SAS AB</Name>
+    <Symbol>SAS DKK</Symbol>
+    <Isin>SE0000805574</Isin>
+    <Id>CSE13584</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Svendborg Sparekasse</Name>
+    <Symbol>SVEND</Symbol>
+    <Isin>DK0010282359</Isin>
+    <Id>CSE14651</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Danske Bank A/S</Name>
+    <Symbol>DANSKE</Symbol>
+    <Isin>DK0010274414</Isin>
+    <Id>CSE1586</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Jyske Bank A/S</Name>
+    <Symbol>JYSK</Symbol>
+    <Isin>DK0010307958</Isin>
+    <Id>CSE1587</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Carlsberg A/S A</Name>
+    <Symbol>CARL A</Symbol>
+    <Isin>DK0010181676</Isin>
+    <Id>CSE1595</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Carlsberg A/S B</Name>
+    <Symbol>CARL B</Symbol>
+    <Isin>DK0010181759</Isin>
+    <Id>CSE1596</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Gudme Raaschou Vision</Name>
+    <Symbol>GRVIS</Symbol>
+    <Isin>DK0010298868</Isin>
+    <Id>CSE21613</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Alm. Brand Formue B</Name>
+    <Symbol>ALMBF B</Symbol>
+    <Isin>DK0010300276</Isin>
+    <Id>CSE22625</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>G4S plc</Name>
+    <Symbol>G4S</Symbol>
+    <Isin>GB00B01FLG62</Isin>
+    <Id>CSE25634</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Spar Nord FormueInvest</Name>
+    <Symbol>SPNFI</Symbol>
+    <Isin>DK0010309574</Isin>
+    <Id>CSE28750</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>TopoTarget</Name>
+    <Symbol>TOPO</Symbol>
+    <Isin>DK0060003556</Isin>
+    <Id>CSE30074</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>TrygVesta A/S</Name>
+    <Symbol>TRYG</Symbol>
+    <Isin>DK0060013274</Isin>
+    <Id>CSE31315</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Amagerbanken</Name>
+    <Symbol>AMAG</Symbol>
+    <Isin>DK0060037109</Isin>
+    <Id>CSE3162</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Fionia Bank</Name>
+    <Symbol>FIONIA</Symbol>
+    <Isin>DK0060129658</Isin>
+    <Id>CSE3163</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Bonusbanken</Name>
+    <Symbol>BONU</Symbol>
+    <Isin>DK0010302488</Isin>
+    <Id>CSE3184</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>DiBa Bank</Name>
+    <Symbol>DIBA</Symbol>
+    <Isin>DK0060076941</Isin>
+    <Id>CSE3185</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Djurslands Bank</Name>
+    <Symbol>DJUR</Symbol>
+    <Isin>DK0060136273</Isin>
+    <Id>CSE3186</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>ebh bank A/S</Name>
+    <Symbol>EBH</Symbol>
+    <Isin>DK0060035327</Isin>
+    <Id>CSE3191</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Nordjyske Bank</Name>
+    <Symbol>NORDJB</Symbol>
+    <Isin>DK0060034353</Isin>
+    <Id>CSE3192</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Sparekassen Faaborg</Name>
+    <Symbol>SPFA</Symbol>
+    <Isin>DK0010150523</Isin>
+    <Id>CSE3193</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Topdanmark</Name>
+    <Symbol>TOP</Symbol>
+    <Isin>DK0010259530</Isin>
+    <Id>CSE3194</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Københavns Lufthavne</Name>
+    <Symbol>KBHL</Symbol>
+    <Isin>DK0010201102</Isin>
+    <Id>CSE3195</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>A.P. Møller - Mærsk A</Name>
+    <Symbol>MAERSK A</Symbol>
+    <Isin>DK0010244425</Isin>
+    <Id>CSE3200</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>A.P. Møller - Mærsk B</Name>
+    <Symbol>MAERSK B</Symbol>
+    <Isin>DK0010244508</Isin>
+    <Id>CSE3201</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Bang &amp; Olufsen  B</Name>
+    <Symbol>BO B</Symbol>
+    <Isin>DK0010218429</Isin>
+    <Id>CSE3202</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Coloplast B</Name>
+    <Symbol>COLO B</Symbol>
+    <Isin>DK0010309657</Isin>
+    <Id>CSE3203</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Danisco</Name>
+    <Symbol>DCO</Symbol>
+    <Isin>DK0010207497</Isin>
+    <Id>CSE3204</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>GN Store Nord</Name>
+    <Symbol>GN</Symbol>
+    <Isin>DK0010272632</Isin>
+    <Id>CSE3205</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>FLSmidth &amp; Co.</Name>
+    <Symbol>FLS</Symbol>
+    <Isin>DK0010234467</Isin>
+    <Id>CSE3207</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Forstædernes Bank</Name>
+    <Symbol>FORST</Symbol>
+    <Isin>DK0060076354</Isin>
+    <Id>CSE3209</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Grønlandsbanken</Name>
+    <Symbol>GRLA</Symbol>
+    <Isin>DK0010230630</Isin>
+    <Id>CSE3210</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Aarhus Lokalbank</Name>
+    <Symbol>AARHUS</Symbol>
+    <Isin>DK0060088797</Isin>
+    <Id>CSE3211</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Hvidbjerg Bank</Name>
+    <Symbol>HVID</Symbol>
+    <Isin>DK0060135978</Isin>
+    <Id>CSE3212</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Max Bank</Name>
+    <Symbol>MAX</Symbol>
+    <Isin>DK0010305903</Isin>
+    <Id>CSE3213</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Lokalbanken i Nordsjælland</Name>
+    <Symbol>LOKA</Symbol>
+    <Isin>DK0010312446</Isin>
+    <Id>CSE3221</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>William Demant Holding</Name>
+    <Symbol>WDH</Symbol>
+    <Isin>DK0010268440</Isin>
+    <Id>CSE3247</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Columbus IT Partner</Name>
+    <Symbol>COLUM</Symbol>
+    <Isin>DK0010268366</Isin>
+    <Id>CSE3248</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Møns Bank</Name>
+    <Symbol>MNBA</Symbol>
+    <Isin>DK0060133841</Isin>
+    <Id>CSE3251</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>SKAKO Industries A/S</Name>
+    <Symbol>SKAKOI</Symbol>
+    <Isin>DK0010231877</Isin>
+    <Id>CSE3254</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Vestas Wind Systems</Name>
+    <Symbol>VWS</Symbol>
+    <Isin>DK0010268606</Isin>
+    <Id>CSE3258</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Schouw &amp; Co.</Name>
+    <Symbol>SCHO</Symbol>
+    <Isin>DK0010253921</Isin>
+    <Id>CSE3259</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Spar Nord Bank</Name>
+    <Symbol>SPNO</Symbol>
+    <Isin>DK0060036564</Isin>
+    <Id>CSE3260</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Nordicom</Name>
+    <Symbol>NRDC</Symbol>
+    <Isin>DK0010158500</Isin>
+    <Id>CSE3261</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Dicentia</Name>
+    <Symbol>DICENT</Symbol>
+    <Isin>DK0010242213</Isin>
+    <Id>CSE3262</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Nordfyns Bank</Name>
+    <Symbol>NRDF</Symbol>
+    <Isin>DK0010015072</Isin>
+    <Id>CSE3265</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>ALK-Abelló B</Name>
+    <Symbol>ALK B</Symbol>
+    <Isin>DK0060027142</Isin>
+    <Id>CSE32679</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Tower Group</Name>
+    <Symbol>TOWER</Symbol>
+    <Isin>DK0011188035</Isin>
+    <Id>CSE3270</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Vestjysk Bank</Name>
+    <Symbol>VJBA</Symbol>
+    <Isin>DK0010304500</Isin>
+    <Id>CSE3271</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Per Aarsleff B</Name>
+    <Symbol>PAAL B</Symbol>
+    <Isin>DK0010243450</Isin>
+    <Id>CSE3272</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Royal UNIBREW</Name>
+    <Symbol>RBREW</Symbol>
+    <Isin>DK0010242999</Isin>
+    <Id>CSE3273</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Alm. Brand Pantebreve B</Name>
+    <Symbol>ALMBP B</Symbol>
+    <Isin>DK0010136969</Isin>
+    <Id>CSE3274</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Europeinvestment A/S</Name>
+    <Symbol>EUROPE</Symbol>
+    <Isin>DK0010143312</Isin>
+    <Id>CSE3276</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Walls A/S</Name>
+    <Symbol>WALLS</Symbol>
+    <Isin>DK0060040673</Isin>
+    <Id>CSE3277</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>GPV Industri B</Name>
+    <Symbol>GPV B</Symbol>
+    <Isin>DK0010210285</Isin>
+    <Id>CSE3278</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Nørresundby Bank</Name>
+    <Symbol>NRSU</Symbol>
+    <Isin>DK0060135549</Isin>
+    <Id>CSE3279</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Gyldendal A</Name>
+    <Symbol>GYLD A</Symbol>
+    <Isin>DK0010247527</Isin>
+    <Id>CSE3281</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>KapitalPleje A/S</Name>
+    <Symbol>KAP</Symbol>
+    <Isin>DK0060020485</Isin>
+    <Id>CSE32818</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>IC Companys</Name>
+    <Symbol>IC</Symbol>
+    <Isin>DK0010221803</Isin>
+    <Id>CSE3282</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Gyldendal B</Name>
+    <Symbol>GYLD B</Symbol>
+    <Isin>DK0010247600</Isin>
+    <Id>CSE3283</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>H+H International</Name>
+    <Symbol>HH B</Symbol>
+    <Isin>DK0015202451</Isin>
+    <Id>CSE3284</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>SIF Fodbold Support B</Name>
+    <Symbol>SIF B</Symbol>
+    <Isin>DK0010128008</Isin>
+    <Id>CSE3285</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Ringkjøbing Bank</Name>
+    <Symbol>RIBA</Symbol>
+    <Isin>DK0010300193</Isin>
+    <Id>CSE3287</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Auriga Industries B</Name>
+    <Symbol>AURI B</Symbol>
+    <Isin>DK0010233816</Isin>
+    <Id>CSE3288</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Mols-Linien</Name>
+    <Symbol>MOLS</Symbol>
+    <Isin>DK0060135465</Isin>
+    <Id>CSE3290</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Ringkjøbing Landbobank</Name>
+    <Symbol>RILBA</Symbol>
+    <Isin>DK0060032068</Isin>
+    <Id>CSE3292</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>D/S Norden</Name>
+    <Symbol>DNORD</Symbol>
+    <Isin>DK0060083210</Isin>
+    <Id>CSE3293</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Roskilde Bank</Name>
+    <Symbol>ROSK</Symbol>
+    <Isin>DK0060056083</Isin>
+    <Id>CSE3297</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Salling Bank</Name>
+    <Symbol>SALB</Symbol>
+    <Isin>DK0010017367</Isin>
+    <Id>CSE3300</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Skjern Bank</Name>
+    <Symbol>SKJE</Symbol>
+    <Isin>DK0010295922</Isin>
+    <Id>CSE3301</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Skælskør Bank</Name>
+    <Symbol>SKLS</Symbol>
+    <Isin>DK0010309491</Isin>
+    <Id>CSE3303</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>cBrain A/S</Name>
+    <Symbol>CBRAIN</Symbol>
+    <Isin>DK0060030286</Isin>
+    <Id>CSE33039</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Østasiatiske Kompagni</Name>
+    <Symbol>EAC</Symbol>
+    <Isin>DK0010006329</Isin>
+    <Id>CSE3305</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>AaB</Name>
+    <Symbol>AAB</Symbol>
+    <Isin>DK0010247014</Isin>
+    <Id>CSE3307</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>DFDS</Name>
+    <Symbol>DFDS</Symbol>
+    <Isin>DK0010259027</Isin>
+    <Id>CSE3308</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Scandinavian Brake Systems A/S</Name>
+    <Symbol>SBS</Symbol>
+    <Isin>DK0060042612</Isin>
+    <Id>CSE3309</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Olicom</Name>
+    <Symbol>OLI</Symbol>
+    <Isin>DK0010237056</Isin>
+    <Id>CSE3312</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Expedit B</Name>
+    <Symbol>EXP B</Symbol>
+    <Isin>DK0015312474</Isin>
+    <Id>CSE3314</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Flügger B</Name>
+    <Symbol>FLUG B</Symbol>
+    <Isin>DK0010218189</Isin>
+    <Id>CSE3315</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Gabriel Holding</Name>
+    <Symbol>GABR</Symbol>
+    <Isin>DK0060124691</Isin>
+    <Id>CSE3317</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Glunz &amp; Jensen</Name>
+    <Symbol>GJ</Symbol>
+    <Isin>DK0010249309</Isin>
+    <Id>CSE3318</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>GPV Industri A</Name>
+    <Symbol>GPV A</Symbol>
+    <Isin>DK0010210012</Isin>
+    <Id>CSE3319</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Capinordic A/S</Name>
+    <Symbol>CAPI DKK</Symbol>
+    <Isin>DK0010212570</Isin>
+    <Id>CSE3326</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Jeudan</Name>
+    <Symbol>JDAN</Symbol>
+    <Isin>DK0010171362</Isin>
+    <Id>CSE3327</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>D/S Torm</Name>
+    <Symbol>TORM</Symbol>
+    <Isin>DK0060082915</Isin>
+    <Id>CSE3328</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Ambu A/S</Name>
+    <Symbol>AMBU B</Symbol>
+    <Isin>DK0010303619</Isin>
+    <Id>CSE3331</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Arkil Holding B</Name>
+    <Symbol>ARKIL B</Symbol>
+    <Isin>DK0010025113</Isin>
+    <Id>CSE3332</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Bavarian Nordic</Name>
+    <Symbol>BAVA</Symbol>
+    <Isin>DK0015998017</Isin>
+    <Id>CSE3333</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Holdings. af 25.november 1972</Name>
+    <Symbol>HOLD</Symbol>
+    <Isin>DK0010270420</Isin>
+    <Id>CSE3337</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>F.E. Bording B</Name>
+    <Symbol>BORD B</Symbol>
+    <Isin>DK0010008028</Isin>
+    <Id>CSE3338</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Alm. Brand</Name>
+    <Symbol>ALMB</Symbol>
+    <Isin>DK0015250344</Isin>
+    <Id>CSE3340</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Greentech Energy Systems</Name>
+    <Symbol>GES</Symbol>
+    <Isin>DK0010240514</Isin>
+    <Id>CSE3343</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>BoConcept Holding B</Name>
+    <Symbol>BOCON B</Symbol>
+    <Isin>DK0060050201</Isin>
+    <Id>CSE3346</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>EDB Gruppen</Name>
+    <Symbol>EDB</Symbol>
+    <Isin>DK0010211093</Isin>
+    <Id>CSE3347</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Egetæpper B</Name>
+    <Symbol>EGE B</Symbol>
+    <Isin>DK0010259290</Isin>
+    <Id>CSE3348</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Harboes Bryggeri B</Name>
+    <Symbol>HARB B</Symbol>
+    <Isin>DK0060014751</Isin>
+    <Id>CSE3351</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Brdr.Hartmann</Name>
+    <Symbol>HART</Symbol>
+    <Isin>DK0010256197</Isin>
+    <Id>CSE3352</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Asgaard Group</Name>
+    <Symbol>ASGGRO</Symbol>
+    <Isin>DK0010131309</Isin>
+    <Id>CSE3357</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>SP Group</Name>
+    <Symbol>SPG</Symbol>
+    <Isin>DK0010244771</Isin>
+    <Id>CSE3358</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Højgaard Holding A</Name>
+    <Symbol>HOEJ A</Symbol>
+    <Isin>DK0010255892</Isin>
+    <Id>CSE3359</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Højgaard Holding B</Name>
+    <Symbol>HOEJ B</Symbol>
+    <Isin>DK0010255975</Isin>
+    <Id>CSE3360</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Sydbank</Name>
+    <Symbol>SYDB</Symbol>
+    <Isin>DK0010311471</Isin>
+    <Id>CSE3366</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Totalbanken</Name>
+    <Symbol>TOTA</Symbol>
+    <Isin>DK0060082758</Isin>
+    <Id>CSE3370</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Formuepleje Safe</Name>
+    <Symbol>FPSAFE</Symbol>
+    <Isin>DK0016110547</Isin>
+    <Id>CSE33718</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Tønder Bank</Name>
+    <Symbol>TNDR</Symbol>
+    <Isin>DK0060002236</Isin>
+    <Id>CSE3372</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Sparbank</Name>
+    <Symbol>SPB</Symbol>
+    <Isin>DK0010305820</Isin>
+    <Id>CSE3375</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Vestfyns Bank</Name>
+    <Symbol>VEFY</Symbol>
+    <Isin>DK0010019306</Isin>
+    <Id>CSE3377</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Small Cap Danmark</Name>
+    <Symbol>SCD</Symbol>
+    <Isin>DK0010305077</Isin>
+    <Id>CSE3378</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Dan-Ejendomme Holding</Name>
+    <Symbol>DEH</Symbol>
+    <Isin>DK0010292663</Isin>
+    <Id>CSE3380</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Vinderup Bank</Name>
+    <Symbol>VIND</Symbol>
+    <Isin>DK0060136513</Isin>
+    <Id>CSE3381</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Dantherm A/S</Name>
+    <Symbol>DANTH</Symbol>
+    <Isin>DK0010223692</Isin>
+    <Id>CSE3382</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Vordingborg Bank</Name>
+    <Symbol>VORD</Symbol>
+    <Isin>DK0010019652</Isin>
+    <Id>CSE3384</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Østjydsk Bank</Name>
+    <Symbol>OJBA</Symbol>
+    <Isin>DK0010017607</Isin>
+    <Id>CSE3386</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Kreditbanken</Name>
+    <Symbol>KRE</Symbol>
+    <Isin>DK0010253764</Isin>
+    <Id>CSE3389</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Schaumann Properties</Name>
+    <Symbol>SCHAUP</Symbol>
+    <Isin>DK0010250075</Isin>
+    <Id>CSE3391</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Århus Elite B</Name>
+    <Symbol>ELITE B</Symbol>
+    <Isin>DK0010263722</Isin>
+    <Id>CSE3393</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Jensen &amp; Møller Invest</Name>
+    <Symbol>JMI</Symbol>
+    <Isin>DK0010020668</Isin>
+    <Id>CSE3395</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Andersen &amp; Martini B</Name>
+    <Symbol>AM B</Symbol>
+    <Isin>DK0010283597</Isin>
+    <Id>CSE3396</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Brøndby IF B</Name>
+    <Symbol>BIF B</Symbol>
+    <Isin>DK0010247956</Isin>
+    <Id>CSE3399</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Land &amp; Leisure A</Name>
+    <Symbol>LL A</Symbol>
+    <Isin>DK0010243534</Isin>
+    <Id>CSE3402</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Land &amp; Leisure B</Name>
+    <Symbol>LL B</Symbol>
+    <Isin>DK0010240860</Isin>
+    <Id>CSE3406</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Dantax</Name>
+    <Symbol>DANT</Symbol>
+    <Isin>DK0015205637</Isin>
+    <Id>CSE3412</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>DLH B</Name>
+    <Symbol>DLH B</Symbol>
+    <Isin>DK0060038933</Isin>
+    <Id>CSE3414</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>DSV</Name>
+    <Symbol>DSV</Symbol>
+    <Isin>DK0060079531</Isin>
+    <Id>CSE3415</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Lastas B</Name>
+    <Symbol>LAST B</Symbol>
+    <Isin>DK0010146927</Isin>
+    <Id>CSE3418</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Brdr. A &amp; O Johansen præf.</Name>
+    <Symbol>AOJ P</Symbol>
+    <Isin>DK0010231018</Isin>
+    <Id>CSE3419</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Brd. Klee B</Name>
+    <Symbol>KLEE B</Symbol>
+    <Isin>DK0010129089</Isin>
+    <Id>CSE3420</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>PARKEN Sport &amp; Entertainment</Name>
+    <Symbol>PARKEN</Symbol>
+    <Isin>DK0010237643</Isin>
+    <Id>CSE3422</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Hedegaard</Name>
+    <Symbol>HEDE</Symbol>
+    <Isin>DK0010206929</Isin>
+    <Id>CSE3426</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Søndagsavisen a-s</Name>
+    <Symbol>SOEN</Symbol>
+    <Isin>DK0010270347</Isin>
+    <Id>CSE3428</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Solar B</Name>
+    <Symbol>SOLAR B</Symbol>
+    <Isin>DK0010274844</Isin>
+    <Id>CSE3431</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>BioPorto B</Name>
+    <Symbol>BIOP B</Symbol>
+    <Isin>DK0011048619</Isin>
+    <Id>CSE3433</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Rias B</Name>
+    <Symbol>RIAS B</Symbol>
+    <Isin>DK0010125848</Isin>
+    <Id>CSE3434</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Sanistål B</Name>
+    <Symbol>SANI B</Symbol>
+    <Isin>DK0010245661</Isin>
+    <Id>CSE3435</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Satair</Name>
+    <Symbol>SAT</Symbol>
+    <Isin>DK0010230390</Isin>
+    <Id>CSE3438</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Renewagy</Name>
+    <Symbol>REN</Symbol>
+    <Isin>DK0060111367</Isin>
+    <Id>CSE3439</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Tivoli A/S</Name>
+    <Symbol>TIV</Symbol>
+    <Isin>DK0010040500</Isin>
+    <Id>CSE3440</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>United International Enterprises Ltd</Name>
+    <Symbol>UIE</Symbol>
+    <Isin>BSP951331318</Isin>
+    <Id>CSE3441</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>United Plantation Africa Ltd</Name>
+    <Symbol>UPAL</Symbol>
+    <Isin>DK0010193416</Isin>
+    <Id>CSE3442</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>United Plantation Berhad</Name>
+    <Symbol>UPB</Symbol>
+    <Isin>DK0010023258</Isin>
+    <Id>CSE3445</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Luxor B</Name>
+    <Symbol>LUXOR B</Symbol>
+    <Isin>DK0010213628</Isin>
+    <Id>CSE3446</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Formuepleje Penta A/S</Name>
+    <Symbol>FPPEN</Symbol>
+    <Isin>DK0016079361</Isin>
+    <Id>CSE34463</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Formuepleje Epikur A/S</Name>
+    <Symbol>FPEPI</Symbol>
+    <Isin>DK0016079288</Isin>
+    <Id>CSE34466</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>DanTruck-Heden</Name>
+    <Symbol>DANTR</Symbol>
+    <Isin>DK0010182138</Isin>
+    <Id>CSE3450</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Roblon B</Name>
+    <Symbol>RBLN B</Symbol>
+    <Isin>DK0010133008</Isin>
+    <Id>CSE3452</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Rockwool International A</Name>
+    <Symbol>ROCK A</Symbol>
+    <Isin>DK0010219070</Isin>
+    <Id>CSE3454</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Rockwool International B</Name>
+    <Symbol>ROCK B</Symbol>
+    <Isin>DK0010219153</Isin>
+    <Id>CSE3456</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Rella Holding A/S</Name>
+    <Symbol>RELLA</Symbol>
+    <Isin>DK0016033889</Isin>
+    <Id>CSE34595</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Sjælsø Gruppen</Name>
+    <Symbol>SJGR</Symbol>
+    <Isin>DK0010241751</Isin>
+    <Id>CSE3460</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Spæncom A</Name>
+    <Symbol>SPNC A</Symbol>
+    <Isin>DK0015326854</Isin>
+    <Id>CSE3462</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Formuepleje Pareto A/S</Name>
+    <Symbol>FPPAR</Symbol>
+    <Isin>DK0016023492</Isin>
+    <Id>CSE34620</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Formuepleje Optimum A/S</Name>
+    <Symbol>FPOPT</Symbol>
+    <Isin>DK0060026680</Isin>
+    <Id>CSE34621</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Spæncom B</Name>
+    <Symbol>SPNC B</Symbol>
+    <Isin>DK0015308019</Isin>
+    <Id>CSE3463</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Curalogic A/S</Name>
+    <Symbol>CUR</Symbol>
+    <Isin>DK0060040756</Isin>
+    <Id>CSE34682</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Victor International</Name>
+    <Symbol>VIINT</Symbol>
+    <Isin>DK0010022367</Isin>
+    <Id>CSE3469</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>National Bank of Greece</Name>
+    <Symbol>NBG</Symbol>
+    <Isin>DK0010218932</Isin>
+    <Id>CSE3471</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>InterMail B</Name>
+    <Symbol>IMAIL B</Symbol>
+    <Isin>DK0010212224</Isin>
+    <Id>CSE3473</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>NeuroSearch</Name>
+    <Symbol>NEUR</Symbol>
+    <Isin>DK0010224666</Isin>
+    <Id>CSE3476</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Migatronic B.</Name>
+    <Symbol>MIGA B</Symbol>
+    <Isin>DK0010225127</Isin>
+    <Id>CSE3477</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>NKT Holding</Name>
+    <Symbol>NKT</Symbol>
+    <Isin>DK0010287663</Isin>
+    <Id>CSE3478</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Monberg. &amp; Thorsen B.</Name>
+    <Symbol>MT B</Symbol>
+    <Isin>DK0010224310</Isin>
+    <Id>CSE3479</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>NTR Holding B</Name>
+    <Symbol>NTR B</Symbol>
+    <Isin>DK0010027671</Isin>
+    <Id>CSE3480</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>TK Development</Name>
+    <Symbol>TKDV</Symbol>
+    <Isin>DK0010258995</Isin>
+    <Id>CSE3484</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Topsil Semiconductor Materials</Name>
+    <Symbol>TPSL</Symbol>
+    <Isin>DK0010271584</Isin>
+    <Id>CSE3485</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Victoria Properties</Name>
+    <Symbol>VIPRO</Symbol>
+    <Isin>DK0015216675</Isin>
+    <Id>CSE3486</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Lollands Bank</Name>
+    <Symbol>LOLB</Symbol>
+    <Isin>DK0060000107</Isin>
+    <Id>CSE3489</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Lån og Spar Bank</Name>
+    <Symbol>LASP</Symbol>
+    <Isin>DK0010201532</Isin>
+    <Id>CSE3490</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Morsø Bank</Name>
+    <Symbol>MORS</Symbol>
+    <Isin>DK0010017797</Isin>
+    <Id>CSE3492</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>D/S Orion</Name>
+    <Symbol>ORION</Symbol>
+    <Isin>DK0010246040</Isin>
+    <Id>CSE3493</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Formuepleje LimiTTellus A/S</Name>
+    <Symbol>FPLIM</Symbol>
+    <Isin>DK0016310980</Isin>
+    <Id>CSE35852</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Mondo A/S</Name>
+    <Symbol>Mondo</Symbol>
+    <Isin>DK0060047256</Isin>
+    <Id>CSE36277</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Formuepleje Markur A/S</Name>
+    <Symbol>FPMER</Symbol>
+    <Isin>DK0016042609</Isin>
+    <Id>CSE36518</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Atlantic Petroleum P/F</Name>
+    <Symbol>FO-ATLA CSE</Symbol>
+    <Isin>FO000A0DN9X4</Isin>
+    <Id>CSE36661</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Sparekassen Himmerland</Name>
+    <Symbol>SPHIM</Symbol>
+    <Isin>DK0060050045</Isin>
+    <Id>CSE36732</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>LifeCycle Pharma A/S</Name>
+    <Symbol>LCP</Symbol>
+    <Isin>DK0060048148</Isin>
+    <Id>CSE36992</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Rovsing A/S</Name>
+    <Symbol>ROV</Symbol>
+    <Isin>DK0060049542</Isin>
+    <Id>CSE36995</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Griffin III Berlin B</Name>
+    <Symbol>GRFBER B</Symbol>
+    <Isin>DK0060052843</Isin>
+    <Id>CSE37107</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>First Farms A/S</Name>
+    <Symbol>FFARMS</Symbol>
+    <Isin>DK0060056166</Isin>
+    <Id>CSE37192</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>ChemoMetec A/S</Name>
+    <Symbol>CHEMM</Symbol>
+    <Isin>DK0060055861</Isin>
+    <Id>CSE37367</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Comendo A/S</Name>
+    <Symbol>COM</Symbol>
+    <Isin>DK0060055515</Isin>
+    <Id>CSE37474</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Scandinavian Private Equity A/S </Name>
+    <Symbol>SPEAS</Symbol>
+    <Isin>DK0060068682</Isin>
+    <Id>CSE38146</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Lundbeck A/S</Name>
+    <Symbol>LUN</Symbol>
+    <Isin>DK0010287234</Isin>
+    <Id>CSE3853</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>DK Trends Invest A/S</Name>
+    <Symbol>DKTI</Symbol>
+    <Isin>DK0060076008</Isin>
+    <Id>CSE40225</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Exiqon A/S</Name>
+    <Symbol>EXQ</Symbol>
+    <Isin>DK0060077758</Isin>
+    <Id>CSE40516</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Nordic Tankers A/S</Name>
+    <Symbol>NORDIC</Symbol>
+    <Isin>DK0060083996</Isin>
+    <Id>CSE40696</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Euroinvestor A/S</Name>
+    <Symbol>EI</Symbol>
+    <Isin>DK0060074656</Isin>
+    <Id>CSE40699</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Føroya Banki P/F</Name>
+    <Symbol>FO-BANK CSE</Symbol>
+    <Isin>FO0000000088</Isin>
+    <Id>CSE40854</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Griffin IV Berlin B</Name>
+    <Symbol>GRIFIV B</Symbol>
+    <Isin>DK0060085694</Isin>
+    <Id>CSE40855</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Eik Banki P/F</Name>
+    <Symbol>FO-EIK CSE</Symbol>
+    <Isin>FO0005702340</Isin>
+    <Id>CSE41194</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Investea German High Street II B</Name>
+    <Symbol>IGHS2 B</Symbol>
+    <Isin>DK0060093524</Isin>
+    <Id>CSE42233</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Sparekassen Lolland A/S</Name>
+    <Symbol>SPALOL</Symbol>
+    <Isin>DK0060090777</Isin>
+    <Id>CSE42484</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Deltaq A/S</Name>
+    <Symbol>DELTAQ</Symbol>
+    <Isin>DK0060090181</Isin>
+    <Id>CSE42548</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Sparekassen Hvetbo A/S</Name>
+    <Symbol>HVETBO</Symbol>
+    <Isin>DK0060100592</Isin>
+    <Id>CSE43286</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Klima Invest A/S</Name>
+    <Symbol>KLIMA</Symbol>
+    <Isin>DK0060093607</Isin>
+    <Id>CSE43432</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Viborg Håndbold Klub B</Name>
+    <Symbol>VIBHK B</Symbol>
+    <Isin>DK0016017171</Isin>
+    <Id>CSE4406</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>SimCorp</Name>
+    <Symbol>SIM</Symbol>
+    <Isin>DK0016026164</Isin>
+    <Id>CSE4806</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Nordea Bank AB</Name>
+    <Symbol>NDA DKK</Symbol>
+    <Isin>SE0000427361</Isin>
+    <Id>CSE4861</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Erria A/S</Name>
+    <Symbol>ERRIA</Symbol>
+    <Isin>DK0060101483</Isin>
+    <Id>CSE49569</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Pharmexa</Name>
+    <Symbol>PHARMX</Symbol>
+    <Isin>DK0015966592</Isin>
+    <Id>CSE5017</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>SCF Technologies A/S</Name>
+    <Symbol>SCFT</Symbol>
+    <Isin>DK0060046522</Isin>
+    <Id>CSE50377</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Trifork A/S</Name>
+    <Symbol>TRIFOR</Symbol>
+    <Isin>DK0060102887</Isin>
+    <Id>CSE50670</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>RTX Telecom</Name>
+    <Symbol>RTX</Symbol>
+    <Isin>DK0010267129</Isin>
+    <Id>CSE5090</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>FormueEvolution I A/S</Name>
+    <Symbol>FEI</Symbol>
+    <Isin>DK0060120947</Isin>
+    <Id>CSE53606</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>FormueEvolution II A/S</Name>
+    <Symbol>FEII</Symbol>
+    <Isin>DK0060121242</Isin>
+    <Id>CSE53610</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>NunaMinerals A/S</Name>
+    <Symbol>NUNA</Symbol>
+    <Isin>DK0016190986</Isin>
+    <Id>CSE55794</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Prime Office A/S</Name>
+    <Symbol>PRIMOF</Symbol>
+    <Isin>DK0060137594</Isin>
+    <Id>CSE55880</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Aspocomp Group Oyj</Name>
+    <Symbol>ACG1V</Symbol>
+    <Isin>FI0009008080</Isin>
+    <Id>HEX24228</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Ålandsbanken Abp A</Name>
+    <Symbol>ALBAV</Symbol>
+    <Isin>FI0009000103</Isin>
+    <Id>HEX24229</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Ålandsbanken Abp B</Name>
+    <Symbol>ALBBV</Symbol>
+    <Isin>FI0009001127</Isin>
+    <Id>HEX24230</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Aldata Solution Oyj</Name>
+    <Symbol>ALD1V</Symbol>
+    <Isin>FI0009007918</Isin>
+    <Id>HEX24231</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Amanda Capital Oyj</Name>
+    <Symbol>AMC1V</Symbol>
+    <Isin>FI0009009617</Isin>
+    <Id>HEX24234</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Amer Sports Corporation</Name>
+    <Symbol>AMEAS</Symbol>
+    <Isin>FI0009000285</Isin>
+    <Id>HEX24235</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Aspo Oyj</Name>
+    <Symbol>ASU1V</Symbol>
+    <Isin>FI0009008072</Isin>
+    <Id>HEX24236</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Atria Oyj </Name>
+    <Symbol>ATRAV</Symbol>
+    <Isin>FI0009006548</Isin>
+    <Id>HEX24237</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Basware Oyj</Name>
+    <Symbol>BAS1V</Symbol>
+    <Isin>FI0009008403</Isin>
+    <Id>HEX24238</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Wulff-Yhtiöt Oy</Name>
+    <Symbol>WUF1V</Symbol>
+    <Isin>FI0009008452</Isin>
+    <Id>HEX24239</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>GeoSentric Plc</Name>
+    <Symbol>GEO1V</Symbol>
+    <Isin>FI0009004204</Isin>
+    <Id>HEX24240</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Biohit Oyj B</Name>
+    <Symbol>BIOBV</Symbol>
+    <Isin>FI0009005482</Isin>
+    <Id>HEX24241</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Biotie Therapies Oyj</Name>
+    <Symbol>BTH1V</Symbol>
+    <Isin>FI0009011571</Isin>
+    <Id>HEX24243</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>CapMan Oyj B</Name>
+    <Symbol>CPMBV</Symbol>
+    <Isin>FI0009009377</Isin>
+    <Id>HEX24246</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Componenta Oyj</Name>
+    <Symbol>CTH1V</Symbol>
+    <Isin>FI0009010110</Isin>
+    <Id>HEX24247</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Comptel Oyj</Name>
+    <Symbol>CTL1V</Symbol>
+    <Isin>FI0009008221</Isin>
+    <Id>HEX24248</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Citycon Oyj</Name>
+    <Symbol>CTY1S</Symbol>
+    <Isin>FI0009002471</Isin>
+    <Id>HEX24249</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Done Solutions Oyj</Name>
+    <Symbol>DSO1V</Symbol>
+    <Isin>FI0009010912</Isin>
+    <Id>HEX24250</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Elektrobit Group Oyj</Name>
+    <Symbol>EBG1V</Symbol>
+    <Isin>FI0009007264</Isin>
+    <Id>HEX24251</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Efore Oyj</Name>
+    <Symbol>EFO1V</Symbol>
+    <Isin>FI0009900054</Isin>
+    <Id>HEX24252</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Elecster Oyj A</Name>
+    <Symbol>ELEAV</Symbol>
+    <Isin>FI0009900658</Isin>
+    <Id>HEX24253</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Elisa Oyj</Name>
+    <Symbol>ELI1V</Symbol>
+    <Isin>FI0009007884</Isin>
+    <Id>HEX24254</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Elcoteq SE A</Name>
+    <Symbol>ELQAV</Symbol>
+    <Isin>FI0009006738</Isin>
+    <Id>HEX24255</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Oral Hammaslääkärit Oyj</Name>
+    <Symbol>ORA1V</Symbol>
+    <Isin>FI0009007751</Isin>
+    <Id>HEX24256</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Etteplan Oyj</Name>
+    <Symbol>ETT1V</Symbol>
+    <Isin>FI0009008650</Isin>
+    <Id>HEX24262</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Evia Oyj</Name>
+    <Symbol>EVI1V</Symbol>
+    <Isin>FI0009900377</Isin>
+    <Id>HEX24263</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Exel Oyj</Name>
+    <Symbol>EXL1V</Symbol>
+    <Isin>FI0009007306</Isin>
+    <Id>HEX24265</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Finnair Oyj</Name>
+    <Symbol>FIA1S</Symbol>
+    <Isin>FI0009003230</Isin>
+    <Id>HEX24266</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Fiskars Oyj A</Name>
+    <Symbol>FISAS</Symbol>
+    <Isin>FI0009000400</Isin>
+    <Id>HEX24267</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Fiskars Oyj K</Name>
+    <Symbol>FISKS</Symbol>
+    <Isin>FI0009000426</Isin>
+    <Id>HEX24268</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Finnlines Oyj</Name>
+    <Symbol>FLG1S</Symbol>
+    <Isin>FI0009003644</Isin>
+    <Id>HEX24269</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>F-Secure Oyj</Name>
+    <Symbol>FSC1V</Symbol>
+    <Isin>FI0009801310</Isin>
+    <Id>HEX24270</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Fortum Oyj</Name>
+    <Symbol>FUM1V</Symbol>
+    <Isin>FI0009007132</Isin>
+    <Id>HEX24271</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>HKScan Oyj  A</Name>
+    <Symbol>HKSAV</Symbol>
+    <Isin>FI0009006308</Isin>
+    <Id>HEX24273</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Honkarakenne Oyj B</Name>
+    <Symbol>HONBS</Symbol>
+    <Isin>FI0009900104</Isin>
+    <Id>HEX24274</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Huhtamäki Oyj</Name>
+    <Symbol>HUH1V</Symbol>
+    <Isin>FI0009000459</Isin>
+    <Id>HEX24276</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Ilkka-Yhtymä Oyj 2</Name>
+    <Symbol>ILK2S</Symbol>
+    <Isin>FI0009800205</Isin>
+    <Id>HEX24278</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Incap Oyj</Name>
+    <Symbol>ICP1V</Symbol>
+    <Isin>FI0009006407</Isin>
+    <Id>HEX24279</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Interavanti Oyj</Name>
+    <Symbol>INA1S</Symbol>
+    <Isin>FI0009002349</Isin>
+    <Id>HEX24280</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Pöyry Oyj</Name>
+    <Symbol>POY1V</Symbol>
+    <Isin>FI0009006696</Isin>
+    <Id>HEX24281</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Julius Tallberg-Kiinteistöt Oyj</Name>
+    <Symbol>JTK1V</Symbol>
+    <Isin>FI0009001879</Isin>
+    <Id>HEX24282</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Nurminen Logistics Oyj</Name>
+    <Symbol>NLG1V</Symbol>
+    <Isin>FI0009900187</Isin>
+    <Id>HEX24283</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Konecranes Oyj</Name>
+    <Symbol>KCR1V</Symbol>
+    <Isin>FI0009005870</Isin>
+    <Id>HEX24284</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Kesla Oyj A</Name>
+    <Symbol>KELAS</Symbol>
+    <Isin>FI0009900237</Isin>
+    <Id>HEX24286</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Kesko Oyj A</Name>
+    <Symbol>KESAV</Symbol>
+    <Isin>FI0009007900</Isin>
+    <Id>HEX24287</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Kesko Oyj B</Name>
+    <Symbol>KESBV</Symbol>
+    <Isin>FI0009000202</Isin>
+    <Id>HEX24288</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Kemira Oyj</Name>
+    <Symbol>KRA1V</Symbol>
+    <Isin>FI0009004824</Isin>
+    <Id>HEX24292</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Glaston  Corporation</Name>
+    <Symbol>GLA1V</Symbol>
+    <Isin>FI0009010219</Isin>
+    <Id>HEX24293</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Keskisuomalainen Oyj A</Name>
+    <Symbol>KSLAV</Symbol>
+    <Isin>FI0009007546</Isin>
+    <Id>HEX24294</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Larox Oyj B</Name>
+    <Symbol>LARBS</Symbol>
+    <Isin>FI0009900328</Isin>
+    <Id>HEX24296</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Lassila &amp;Tikanoja Oyj</Name>
+    <Symbol>LAT1V</Symbol>
+    <Isin>FI0009010854</Isin>
+    <Id>HEX24297</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Lemminkäinen Oyj</Name>
+    <Symbol>LEM1S</Symbol>
+    <Isin>FI0009900336</Isin>
+    <Id>HEX24298</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Tiimari Oyj Abp</Name>
+    <Symbol>TII1V</Symbol>
+    <Isin>FI0009003859</Isin>
+    <Id>HEX24299</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Lännen Tehtaat Oyj</Name>
+    <Symbol>LTE1S</Symbol>
+    <Isin>FI0009003503</Isin>
+    <Id>HEX24300</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Martela Oyj A</Name>
+    <Symbol>MARAS</Symbol>
+    <Isin>FI0009900385</Isin>
+    <Id>HEX24301</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Metso Oyj</Name>
+    <Symbol>MEO1V</Symbol>
+    <Isin>FI0009007835</Isin>
+    <Id>HEX24302</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Marimekko Oyj</Name>
+    <Symbol>MMO1V</Symbol>
+    <Isin>FI0009007660</Isin>
+    <Id>HEX24304</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Turvatiimi Oyj</Name>
+    <Symbol>TUT1V</Symbol>
+    <Isin>FI0009901045</Isin>
+    <Id>HEX24305</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>M-real Oyj A</Name>
+    <Symbol>MRLAV</Symbol>
+    <Isin>FI0009000640</Isin>
+    <Id>HEX24306</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>M-real Oyj B</Name>
+    <Symbol>MRLBV</Symbol>
+    <Isin>FI0009000665</Isin>
+    <Id>HEX24307</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Nordea Bank AB (publ) FDR</Name>
+    <Symbol>NDA1V</Symbol>
+    <Isin>FI0009902530</Isin>
+    <Id>HEX24308</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Neomarkka Oyj B</Name>
+    <Symbol>NEMBV</Symbol>
+    <Isin>FI0009800296</Isin>
+    <Id>HEX24309</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Nordic Aluminium Oyj</Name>
+    <Symbol>NOA1V</Symbol>
+    <Isin>FI0009006415</Isin>
+    <Id>HEX24310</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Nokia Oyj</Name>
+    <Symbol>NOK1V</Symbol>
+    <Isin>FI0009000681</Isin>
+    <Id>HEX24311</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Nokian Renkaat Oyj</Name>
+    <Symbol>NRE1V</Symbol>
+    <Isin>FI0009005318</Isin>
+    <Id>HEX24312</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Norvestia Oyj</Name>
+    <Symbol>NVABV</Symbol>
+    <Isin>FI0009000160</Isin>
+    <Id>HEX24314</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Okmetic Oyj</Name>
+    <Symbol>OKM1V</Symbol>
+    <Isin>FI0009009054</Isin>
+    <Id>HEX24315</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Pohjola Pankki Oyj </Name>
+    <Symbol>POH1S</Symbol>
+    <Isin>FI0009003222</Isin>
+    <Id>HEX24316</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Olvi Oyj A</Name>
+    <Symbol>OLVAS</Symbol>
+    <Isin>FI0009900401</Isin>
+    <Id>HEX24317</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Outokumpu Oyj</Name>
+    <Symbol>OUT1V</Symbol>
+    <Isin>FI0009002422</Isin>
+    <Id>HEX24321</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Panostaja Oyj A</Name>
+    <Symbol>PNAAS</Symbol>
+    <Isin>FI0009800361</Isin>
+    <Id>HEX24323</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Panostaja Oyj B</Name>
+    <Symbol>PNABS</Symbol>
+    <Isin>FI0009800379</Isin>
+    <Id>HEX24324</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Proha Oyj</Name>
+    <Symbol>ART1V</Symbol>
+    <Isin>FI0009008098</Isin>
+    <Id>HEX24325</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>PKC Group Oyj</Name>
+    <Symbol>PKC1V</Symbol>
+    <Isin>FI0009006381</Isin>
+    <Id>HEX24326</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Pohjois-Karjalan Kirjapaino Oyj</Name>
+    <Symbol>PKK1V</Symbol>
+    <Isin>FI0009900468</Isin>
+    <Id>HEX24327</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Cencorp Oyj</Name>
+    <Symbol>CNC1V</Symbol>
+    <Isin>FI0009006951</Isin>
+    <Id>HEX24329</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Ponsse Oyj 1</Name>
+    <Symbol>PON1V</Symbol>
+    <Isin>FI0009005078</Isin>
+    <Id>HEX24332</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>QPR Software Oyj</Name>
+    <Symbol>QPR1V</Symbol>
+    <Isin>FI0009008668</Isin>
+    <Id>HEX24334</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Raisio Oyj Vaihto-osake</Name>
+    <Symbol>RAIVV</Symbol>
+    <Isin>FI0009002943</Isin>
+    <Id>HEX24336</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Cramo Oyj</Name>
+    <Symbol>CRA1V</Symbol>
+    <Isin>FI0009900476</Isin>
+    <Id>HEX24337</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Rapala VMC Oyj</Name>
+    <Symbol>RAP1V</Symbol>
+    <Isin>FI0009007355</Isin>
+    <Id>HEX24338</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Ramirent Oyj</Name>
+    <Symbol>RMR1V</Symbol>
+    <Isin>FI0009007066</Isin>
+    <Id>HEX24340</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Rocla Oyj</Name>
+    <Symbol>ROC1V</Symbol>
+    <Isin>FI0009006589</Isin>
+    <Id>HEX24341</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Rautaruukki Oyj K</Name>
+    <Symbol>RTRKS</Symbol>
+    <Isin>FI0009003552</Isin>
+    <Id>HEX24342</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Ruukki Group Oyj</Name>
+    <Symbol>RUG1V</Symbol>
+    <Isin>FI0009800098</Isin>
+    <Id>HEX24343</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Raute Oyj A</Name>
+    <Symbol>RUTAV</Symbol>
+    <Isin>FI0009004741</Isin>
+    <Id>HEX24344</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Sampo Oyj A</Name>
+    <Symbol>SAMAS</Symbol>
+    <Isin>FI0009003305</Isin>
+    <Id>HEX24346</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Trainers´ House Oyj</Name>
+    <Symbol>TRH1V</Symbol>
+    <Isin>FI0009008122</Isin>
+    <Id>HEX24347</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Scanfil Oyj</Name>
+    <Symbol>SCF1V</Symbol>
+    <Isin>FI0009008924</Isin>
+    <Id>HEX24348</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Sponda Oyj</Name>
+    <Symbol>SDA1V</Symbol>
+    <Isin>FI0009006829</Isin>
+    <Id>HEX24349</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Stonesoft Oyj</Name>
+    <Symbol>SFT1V</Symbol>
+    <Isin>FI0009801302</Isin>
+    <Id>HEX24350</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Takoma Oyj</Name>
+    <Symbol>TAM1V</Symbol>
+    <Isin>FI0009901110</Isin>
+    <Id>HEX24351</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Solteq Oyj</Name>
+    <Symbol>STQ1V</Symbol>
+    <Isin>FI0009007991</Isin>
+    <Id>HEX24354</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>SSH Communications Security Oyj</Name>
+    <Symbol>SSH1V</Symbol>
+    <Isin>FI0009008270</Isin>
+    <Id>HEX24357</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>SSK S.Säästäjien Kiinteistöt Oyj</Name>
+    <Symbol>SSK1S</Symbol>
+    <Isin>FI0009900559</Isin>
+    <Id>HEX24358</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Stora Enso Oyj A</Name>
+    <Symbol>STEAV</Symbol>
+    <Isin>FI0009005953</Isin>
+    <Id>HEX24359</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Stora Enso Oyj R</Name>
+    <Symbol>STERV</Symbol>
+    <Isin>FI0009005961</Isin>
+    <Id>HEX24360</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Stromsdal Oyj </Name>
+    <Symbol>STM1V</Symbol>
+    <Isin>FI0009003453</Isin>
+    <Id>HEX24361</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Stockmann Oyj Abp A</Name>
+    <Symbol>STCAS</Symbol>
+    <Isin>FI0009000236</Isin>
+    <Id>HEX24362</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Stockmann Oyj Abp B</Name>
+    <Symbol>STCBV</Symbol>
+    <Isin>FI0009000251</Isin>
+    <Id>HEX24363</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Suominen Oyj</Name>
+    <Symbol>SUY1V</Symbol>
+    <Isin>FI0009010862</Isin>
+    <Id>HEX24364</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>SanomaWSOY Oyj</Name>
+    <Symbol>SWS1V</Symbol>
+    <Isin>FI0009007694</Isin>
+    <Id>HEX24366</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Digia Plc</Name>
+    <Symbol>DIG1V</Symbol>
+    <Isin>FI0009007983</Isin>
+    <Id>HEX24367</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Tamfelt Oyj Etuoikeutettu osake</Name>
+    <Symbol>TAFKS</Symbol>
+    <Isin>FI0009000947</Isin>
+    <Id>HEX24368</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Tamfelt Oyj Kantaosake</Name>
+    <Symbol>TAFPS</Symbol>
+    <Isin>FI0009000939</Isin>
+    <Id>HEX24369</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Technopolis Oyj</Name>
+    <Symbol>TPS1V</Symbol>
+    <Isin>FI0009006886</Isin>
+    <Id>HEX24371</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Teleste Oyj</Name>
+    <Symbol>TLT1V</Symbol>
+    <Isin>FI0009007728</Isin>
+    <Id>HEX24372</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Tecnomen Oyj</Name>
+    <Symbol>TEM1V</Symbol>
+    <Isin>FI0009010227</Isin>
+    <Id>HEX24373</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>TietoEnator Oyj</Name>
+    <Symbol>TIE1V</Symbol>
+    <Isin>FI0009000277</Isin>
+    <Id>HEX24376</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Ixonos Oyj</Name>
+    <Symbol>XNS1V</Symbol>
+    <Isin>FI0009008007</Isin>
+    <Id>HEX24377</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Westend ICT Oyj</Name>
+    <Symbol>WIC1V</Symbol>
+    <Isin>FI0009007637</Isin>
+    <Id>HEX24378</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Tekla Oyj</Name>
+    <Symbol>TLA1V</Symbol>
+    <Isin>FI0009008833</Isin>
+    <Id>HEX24380</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>TeliaSonera AB</Name>
+    <Symbol>TLS1V</Symbol>
+    <Isin>SE0000667925</Isin>
+    <Id>HEX24381</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Talentum Oyj</Name>
+    <Symbol>TTM1V</Symbol>
+    <Isin>FI0009900898</Isin>
+    <Id>HEX24382</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Tulikivi Oyj A</Name>
+    <Symbol>TULAV</Symbol>
+    <Isin>FI0009900583</Isin>
+    <Id>HEX24383</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Turkistuottajat Oyj C</Name>
+    <Symbol>TURCS</Symbol>
+    <Isin>FI0009800551</Isin>
+    <Id>HEX24384</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Uponor Oyj</Name>
+    <Symbol>UNR1V</Symbol>
+    <Isin>FI0009002158</Isin>
+    <Id>HEX24385</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>UPM-Kymmene Oyj</Name>
+    <Symbol>UPM1V</Symbol>
+    <Isin>FI0009005987</Isin>
+    <Id>HEX24386</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Vacon Oyj</Name>
+    <Symbol>VAC1V</Symbol>
+    <Isin>FI0009009567</Isin>
+    <Id>HEX24387</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Vaisala Oyj A</Name>
+    <Symbol>VAIAS</Symbol>
+    <Isin>FI0009900682</Isin>
+    <Id>HEX24388</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Viking Line Abp</Name>
+    <Symbol>VIK1V</Symbol>
+    <Isin>FI0009005250</Isin>
+    <Id>HEX24389</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Vaahto Group Plc Oyj A</Name>
+    <Symbol>WAT1S</Symbol>
+    <Isin>FI0009900708</Isin>
+    <Id>HEX24391</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Vaahto Group Plc Oyj K</Name>
+    <Symbol>WATKV</Symbol>
+    <Isin>FI0009902308</Isin>
+    <Id>HEX24392</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Wärtsilä Oyj Abp</Name>
+    <Symbol>WRT1V</Symbol>
+    <Isin>FI0009003727</Isin>
+    <Id>HEX24394</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Yleiselektroniikka Oyj E</Name>
+    <Symbol>YLEPS</Symbol>
+    <Isin>FI0009900724</Isin>
+    <Id>HEX24395</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>YIT Oyj</Name>
+    <Symbol>YTY1V</Symbol>
+    <Isin>FI0009800643</Isin>
+    <Id>HEX24397</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Neste Oil Oyj</Name>
+    <Symbol>NES1V</Symbol>
+    <Isin>FI0009013296</Isin>
+    <Id>HEX29375</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Alma Media Oyj</Name>
+    <Symbol>ALN1V</Symbol>
+    <Isin>FI0009013114</Isin>
+    <Id>HEX29471</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Affecto Oyj</Name>
+    <Symbol>AFE1V</Symbol>
+    <Isin>FI0009013312</Isin>
+    <Id>HEX29935</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>KONE Oyj</Name>
+    <Symbol>KNEBV</Symbol>
+    <Isin>FI0009013403</Isin>
+    <Id>HEX29981</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Cargotec Oyj</Name>
+    <Symbol>CGCBV</Symbol>
+    <Isin>FI0009013429</Isin>
+    <Id>HEX29983</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Salcomp Oyj</Name>
+    <Symbol>SAL1V</Symbol>
+    <Isin>FI0009013924</Isin>
+    <Id>HEX33654</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Ahlstrom Corporation Oyj</Name>
+    <Symbol>AHL1V</Symbol>
+    <Isin>FI0009010391</Isin>
+    <Id>HEX33661</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Orion Oyj A</Name>
+    <Symbol>ORNAV</Symbol>
+    <Isin>FI0009014369</Isin>
+    <Id>HEX35362</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Orion Oyj B</Name>
+    <Symbol>ORNBV</Symbol>
+    <Isin>FI0009014377</Isin>
+    <Id>HEX35363</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Oriola-KD Oyj A</Name>
+    <Symbol>OKDAV</Symbol>
+    <Isin>FI0009014344</Isin>
+    <Id>HEX35365</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Oriola-KD Oyj B</Name>
+    <Symbol>OKDBV</Symbol>
+    <Isin>FI0009014351</Isin>
+    <Id>HEX35366</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Outotec Oyj</Name>
+    <Symbol>OTE1V</Symbol>
+    <Isin>FI0009014575</Isin>
+    <Id>HEX36695</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Suomen Terveystalo Oyj</Name>
+    <Symbol>SUT1V</Symbol>
+    <Isin>FI0009012413</Isin>
+    <Id>HEX39935</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>SRV Group plc</Name>
+    <Symbol>SRV1V</Symbol>
+    <Isin>FI0009015309</Isin>
+    <Id>HEX40925</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Nokia Oyj New Shares</Name>
+    <Symbol>NOK1VM0108</Symbol>
+    <Isin>FI0009015747</Isin>
+    <Id>HEX51593</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Landsbanki Íslands hf.</Name>
+    <Symbol>LAIS</Symbol>
+    <Isin>IS0000000156</Isin>
+    <Id>ICE10904</Id>
+    <Currency>ISK</Currency>
+    <Exchange>ISE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Kaupthing Bank</Name>
+    <Symbol>KAUP</Symbol>
+    <Isin>IS0000001469</Isin>
+    <Id>ICE10905</Id>
+    <Currency>ISK</Currency>
+    <Exchange>ISE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Sláturfélag Suðurlands svf.</Name>
+    <Symbol>SFS B</Symbol>
+    <Isin>IS0000001311</Isin>
+    <Id>ICE29678</Id>
+    <Currency>ISK</Currency>
+    <Exchange>ISE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Atlantic Petroleum P/F</Name>
+    <Symbol>FO-ATLA CSE</Symbol>
+    <Isin>FO000A0DN9X4</Isin>
+    <Id>ICE30128</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Hf. Eimskipafélag Íslands</Name>
+    <Symbol>HFEIM</Symbol>
+    <Isin>IS0000011039</Isin>
+    <Id>ICE32887</Id>
+    <Currency>ISK</Currency>
+    <Exchange>ISE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Exista hf.</Name>
+    <Symbol>EXISTA</Symbol>
+    <Isin>IS0000013175</Isin>
+    <Id>ICE36410</Id>
+    <Currency>ISK</Currency>
+    <Exchange>ISE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Teymi hf.</Name>
+    <Symbol>TEYMI</Symbol>
+    <Isin>IS0000013647</Isin>
+    <Id>ICE37305</Id>
+    <Currency>ISK</Currency>
+    <Exchange>ISE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Icelandair Group hf.</Name>
+    <Symbol>ICEAIR</Symbol>
+    <Isin>IS0000013464</Isin>
+    <Id>ICE37744</Id>
+    <Currency>ISK</Currency>
+    <Exchange>ISE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Føroya Banki P/F</Name>
+    <Symbol>FO-BANK CSE</Symbol>
+    <Isin>FO0000000088</Isin>
+    <Id>ICE40914</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Eik Banki P/F</Name>
+    <Symbol>FO-EIK CSE</Symbol>
+    <Isin>FO0005702340</Isin>
+    <Id>ICE41552</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Sparisjóður Reykjavíkur og nágrennis.hf.</Name>
+    <Symbol>SPRON</Symbol>
+    <Isin>IS0000010932</Isin>
+    <Id>ICE43375</Id>
+    <Currency>ISK</Currency>
+    <Exchange>ISE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Atlantic Airways P/F</Name>
+    <Symbol>FO-AIR</Symbol>
+    <Isin>FO0000000062</Isin>
+    <Id>ICE50681</Id>
+    <Currency>DKK</Currency>
+    <Exchange>ISE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Bakkavör Group hf.</Name>
+    <Symbol>BAKK</Symbol>
+    <Isin>IS0000000099</Isin>
+    <Id>ICE5383</Id>
+    <Currency>ISK</Currency>
+    <Exchange>ISE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Glitnir banki hf.</Name>
+    <Symbol>GLB</Symbol>
+    <Isin>IS0000000131</Isin>
+    <Id>ICE5396</Id>
+    <Currency>ISK</Currency>
+    <Exchange>ISE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Nýherji hf.</Name>
+    <Symbol>NYHR</Symbol>
+    <Isin>IS0000000396</Isin>
+    <Id>ICE5401</Id>
+    <Currency>ISK</Currency>
+    <Exchange>ISE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Össur hf.</Name>
+    <Symbol>OSSR</Symbol>
+    <Isin>IS0000000040</Isin>
+    <Id>ICE5405</Id>
+    <Currency>ISK</Currency>
+    <Exchange>ISE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Alfesca hf.</Name>
+    <Symbol>A</Symbol>
+    <Isin>IS0000000461</Isin>
+    <Id>ICE5408</Id>
+    <Currency>ISK</Currency>
+    <Exchange>ISE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Straumur-Burðarás Fjárfestingabanki hf.</Name>
+    <Symbol>STRB</Symbol>
+    <Isin>IS0000000644</Isin>
+    <Id>ICE5452</Id>
+    <Currency>ISK</Currency>
+    <Exchange>ISE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Atorka Group hf.</Name>
+    <Symbol>ATOR</Symbol>
+    <Isin>IS0000000669</Isin>
+    <Id>ICE5461</Id>
+    <Currency>ISK</Currency>
+    <Exchange>ISE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Vinnslustöðin hf.</Name>
+    <Symbol>VNST</Symbol>
+    <Isin>IS0000000602</Isin>
+    <Id>ICE5477</Id>
+    <Currency>ISK</Currency>
+    <Exchange>ISE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Marel Food Systems hf.</Name>
+    <Symbol>MARL</Symbol>
+    <Isin>IS0000000388</Isin>
+    <Id>ICE5482</Id>
+    <Currency>ISK</Currency>
+    <Exchange>ISE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Ericsson Telefonab. L M ser. A</Name>
+    <Symbol>ERIC A</Symbol>
+    <Isin>SE0000108649</Isin>
+    <Id>SSE100</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Mobyson AB</Name>
+    <Symbol>MOBY</Symbol>
+    <Isin>SE0001159344</Isin>
+    <Id>SSE1007</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Ericsson Telefonab. L M ser. B</Name>
+    <Symbol>ERIC B</Symbol>
+    <Isin>SE0000108656</Isin>
+    <Id>SSE101</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Atrium Ljungberg AB ser. B</Name>
+    <Symbol>LJGR B</Symbol>
+    <Isin>SE0000191827</Isin>
+    <Id>SSE1011</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Lundbergföretagen AB L E ser. B</Name>
+    <Symbol>LUND B</Symbol>
+    <Isin>SE0000108847</Isin>
+    <Id>SSE1012</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Luxonen S.A. SDB</Name>
+    <Symbol>LUXO SDB</Symbol>
+    <Isin>SE0000168304</Isin>
+    <Id>SSE1014</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Biolin AB</Name>
+    <Symbol>BLIN</Symbol>
+    <Isin>SE0000327090</Isin>
+    <Id>SSE1019</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Medivir AB ser. B</Name>
+    <Symbol>MVIR B</Symbol>
+    <Isin>SE0000273294</Isin>
+    <Id>SSE1020</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Modul 1 Data AB</Name>
+    <Symbol>MOD1</Symbol>
+    <Isin>SE0000345902</Isin>
+    <Id>SSE1021</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>MSC Konsult AB ser. B</Name>
+    <Symbol>MSC B</Symbol>
+    <Isin>SE0000395105</Isin>
+    <Id>SSE1023</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Munters AB</Name>
+    <Symbol>MTRS</Symbol>
+    <Isin>SE0000416604</Isin>
+    <Id>SSE1025</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Tele2 AB ser. A</Name>
+    <Symbol>TEL2 A</Symbol>
+    <Isin>SE0000314304</Isin>
+    <Id>SSE1026</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Tele2 AB ser. B</Name>
+    <Symbol>TEL2 B</Symbol>
+    <Isin>SE0000314312</Isin>
+    <Id>SSE1027</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Ortivus AB ser. A</Name>
+    <Symbol>ORTI A</Symbol>
+    <Isin>SE0000188930</Isin>
+    <Id>SSE1031</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Ortivus AB ser. B</Name>
+    <Symbol>ORTI B</Symbol>
+    <Isin>SE0000123085</Isin>
+    <Id>SSE1032</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Oxigene Inc.</Name>
+    <Symbol>OXGN</Symbol>
+    <Isin>US6918281071</Isin>
+    <Id>SSE1033</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>PartnerTech AB</Name>
+    <Symbol>PART</Symbol>
+    <Isin>SE0000394165</Isin>
+    <Id>SSE1036</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Prevas AB ser. B</Name>
+    <Symbol>PREV B</Symbol>
+    <Isin>SE0000356008</Isin>
+    <Id>SSE1039</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Pricer AB ser. B</Name>
+    <Symbol>PRIC B</Symbol>
+    <Isin>SE0000233934</Isin>
+    <Id>SSE1040</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Ratos AB ser. A</Name>
+    <Symbol>RATO A</Symbol>
+    <Isin>SE0000191090</Isin>
+    <Id>SSE1044</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Ratos AB ser. B</Name>
+    <Symbol>RATO B</Symbol>
+    <Isin>SE0000111940</Isin>
+    <Id>SSE1045</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Lammhults Design Group AB ser. B</Name>
+    <Symbol>LAMM B</Symbol>
+    <Isin>SE0000386138</Isin>
+    <Id>SSE1049</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Rörvik Timber AB ser. B</Name>
+    <Symbol>RTIM B</Symbol>
+    <Isin>SE0000387318</Isin>
+    <Id>SSE1050</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>SAAB AB ser. B</Name>
+    <Symbol>SAAB B</Symbol>
+    <Isin>SE0000112385</Isin>
+    <Id>SSE1051</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Semcon AB</Name>
+    <Symbol>SEMC</Symbol>
+    <Isin>SE0000379497</Isin>
+    <Id>SSE1054</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Cision AB</Name>
+    <Symbol>CSN</Symbol>
+    <Isin>SE0000291486</Isin>
+    <Id>SSE1056</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Teleca AB ser. B</Name>
+    <Symbol>TELC B</Symbol>
+    <Isin>SE0000366254</Isin>
+    <Id>SSE1057</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>SinterCast AB</Name>
+    <Symbol>SINT</Symbol>
+    <Isin>SE0000950982</Isin>
+    <Id>SSE1058</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Skanditek Industriförvaltning AB.</Name>
+    <Symbol>STEK</Symbol>
+    <Isin>SE0000535593</Isin>
+    <Id>SSE1060</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>SWECO AB ser. A</Name>
+    <Symbol>SWEC A</Symbol>
+    <Isin>SE0000489080</Isin>
+    <Id>SSE1061</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>SWECO AB ser. B</Name>
+    <Symbol>SWEC B</Symbol>
+    <Isin>SE0000489098</Isin>
+    <Id>SSE1062</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>RaySearch Laboratories AB ser. B</Name>
+    <Symbol>RAY B</Symbol>
+    <Isin>SE0000135485</Isin>
+    <Id>SSE1063</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Ticket Travel Group AB</Name>
+    <Symbol>TICK</Symbol>
+    <Isin>SE0000378127</Isin>
+    <Id>SSE1064</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Tricorona AB</Name>
+    <Symbol>TRIC</Symbol>
+    <Isin>SE0001493693</Isin>
+    <Id>SSE1066</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Vostok Gas Ltd. SDB</Name>
+    <Symbol>VGAS SDB</Symbol>
+    <Isin>SE0000367823</Isin>
+    <Id>SSE1068</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>XANO Industri AB ser. B</Name>
+    <Symbol>XANO B</Symbol>
+    <Isin>SE0000119224</Isin>
+    <Id>SSE1074</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Precise Biometrics AB</Name>
+    <Symbol>PREC</Symbol>
+    <Isin>SE0001823303</Isin>
+    <Id>SSE10751</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Eniro AB</Name>
+    <Symbol>ENRO</Symbol>
+    <Isin>SE0000718017</Isin>
+    <Id>SSE11046</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Orc Software AB</Name>
+    <Symbol>ORC</Symbol>
+    <Isin>SE0000634321</Isin>
+    <Id>SSE11160</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>NeoNet AB</Name>
+    <Symbol>NEO</Symbol>
+    <Isin>SE0000706913</Isin>
+    <Id>SSE11165</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Enea AB</Name>
+    <Symbol>ENEA</Symbol>
+    <Isin>SE0000514374</Isin>
+    <Id>SSE1149</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Swedbank AB ser A</Name>
+    <Symbol>SWED A</Symbol>
+    <Isin>SE0000242455</Isin>
+    <Id>SSE120</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Sensys Traffic AB</Name>
+    <Symbol>SENS</Symbol>
+    <Isin>SE0000567729</Isin>
+    <Id>SSE12241</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Metro International S.A SDB ser. A</Name>
+    <Symbol>MTRO SDB A</Symbol>
+    <Isin>SE0000696841</Isin>
+    <Id>SSE12429</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Metro International S.A SDB ser. B</Name>
+    <Symbol>MTRO SDB B</Symbol>
+    <Isin>SE0000696858</Isin>
+    <Id>SSE12430</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Studsvik AB</Name>
+    <Symbol>SVIK</Symbol>
+    <Isin>SE0000653230</Isin>
+    <Id>SSE13094</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>JM AB</Name>
+    <Symbol>JM</Symbol>
+    <Isin>SE0000806994</Isin>
+    <Id>SSE13217</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>D. Carnegie &amp; Co AB</Name>
+    <Symbol>CAR</Symbol>
+    <Isin>SE0000798829</Isin>
+    <Id>SSE13235</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>BTS Group AB ser. B</Name>
+    <Symbol>BTS B</Symbol>
+    <Isin>SE0000805426</Isin>
+    <Id>SSE13288</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Aspiro AB</Name>
+    <Symbol>ASP</Symbol>
+    <Isin>SE0000500258</Isin>
+    <Id>SSE13291</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>BioInvent International AB</Name>
+    <Symbol>BINV</Symbol>
+    <Isin>SE0000789711</Isin>
+    <Id>SSE13348</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>RNB RETAIL AND BRANDS AB</Name>
+    <Symbol>RNBS</Symbol>
+    <Isin>SE0000401622</Isin>
+    <Id>SSE13467</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Vitrolife AB</Name>
+    <Symbol>VITR</Symbol>
+    <Isin>SE0000816043</Isin>
+    <Id>SSE13469</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>AcadeMedia AB ser. B</Name>
+    <Symbol>ACAD B</Symbol>
+    <Isin>SE0000375545</Isin>
+    <Id>SSE13523</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>SAS AB</Name>
+    <Symbol>SAS DKK</Symbol>
+    <Isin>SE0000805574</Isin>
+    <Id>SSE13557</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Industrivärden AB ser. A</Name>
+    <Symbol>INDU A</Symbol>
+    <Isin>SE0000190126</Isin>
+    <Id>SSE142</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Industrivärden AB ser. C</Name>
+    <Symbol>INDU C</Symbol>
+    <Isin>SE0000107203</Isin>
+    <Id>SSE143</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Lagercrantz Group AB ser B</Name>
+    <Symbol>LAGR B</Symbol>
+    <Isin>SE0000808396</Isin>
+    <Id>SSE14335</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Addtech AB ser. B</Name>
+    <Symbol>ADDT B</Symbol>
+    <Isin>SE0000808370</Isin>
+    <Id>SSE14336</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Transcom WorldWide S.A SDB ser. A</Name>
+    <Symbol>TWW SDB A</Symbol>
+    <Isin>SE0000818023</Isin>
+    <Id>SSE14353</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Transcom WorldWide S.A SDB ser. B</Name>
+    <Symbol>TWW SDB B</Symbol>
+    <Isin>SE0000818031</Isin>
+    <Id>SSE14354</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Sigma AB ser. B</Name>
+    <Symbol>SIGM B</Symbol>
+    <Isin>SE0000835217</Isin>
+    <Id>SSE14531</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Billerud AB</Name>
+    <Symbol>BILL</Symbol>
+    <Isin>SE0000862997</Isin>
+    <Id>SSE14922</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Boliden AB</Name>
+    <Symbol>BOL</Symbol>
+    <Isin>SE0000869646</Isin>
+    <Id>SSE15285</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Softronic AB ser. B</Name>
+    <Symbol>SOF B</Symbol>
+    <Isin>SE0000323305</Isin>
+    <Id>SSE1546</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Investor AB ser. A</Name>
+    <Symbol>INVE A</Symbol>
+    <Isin>SE0000107401</Isin>
+    <Id>SSE160</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Investor AB ser. B</Name>
+    <Symbol>INVE B</Symbol>
+    <Isin>SE0000107419</Isin>
+    <Id>SSE161</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Technology Nexus AB</Name>
+    <Symbol>NEXU</Symbol>
+    <Isin>SE0000433914</Isin>
+    <Id>SSE1826</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Alfa Laval AB</Name>
+    <Symbol>ALFA</Symbol>
+    <Isin>SE0000695876</Isin>
+    <Id>SSE18634</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Diamyd Medical AB ser. B</Name>
+    <Symbol>DIAM B</Symbol>
+    <Isin>SE0000337917</Isin>
+    <Id>SSE18765</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Intrum Justitia AB</Name>
+    <Symbol>IJ</Symbol>
+    <Isin>SE0000936478</Isin>
+    <Id>SSE18962</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Nobia AB</Name>
+    <Symbol>NOBI</Symbol>
+    <Isin>SE0000949331</Isin>
+    <Id>SSE19095</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Ballingslöv International AB</Name>
+    <Symbol>BALL</Symbol>
+    <Isin>SE0000524191</Isin>
+    <Id>SSE19096</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Dagon AB</Name>
+    <Symbol>DAG</Symbol>
+    <Isin>SE0000646606</Isin>
+    <Id>SSE19210</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Klövern AB</Name>
+    <Symbol>KLOV</Symbol>
+    <Isin>SE0000331225</Isin>
+    <Id>SSE19459</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>ACAP Invest AB ser. A</Name>
+    <Symbol>ACAP A</Symbol>
+    <Isin>SE0000937674</Isin>
+    <Id>SSE20016</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>ACAP Invest AB ser. B</Name>
+    <Symbol>ACAP B</Symbol>
+    <Isin>SE0000937682</Isin>
+    <Id>SSE20017</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Kaupthing Bank</Name>
+    <Symbol>KAUP</Symbol>
+    <Isin>IS0000001469</Isin>
+    <Id>SSE20383</Id>
+    <Currency>ISK</Currency>
+    <Exchange>ISE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Stora Enso Oyj ser. A</Name>
+    <Symbol>STE A</Symbol>
+    <Isin>FI0009007603</Isin>
+    <Id>SSE2169</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Stora Enso Oyj ser. R</Name>
+    <Symbol>STE R</Symbol>
+    <Isin>FI0009007611</Isin>
+    <Id>SSE2170</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Nordea Bank AB</Name>
+    <Symbol>NDA DKK</Symbol>
+    <Isin>SE0000427361</Isin>
+    <Id>SSE220</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Holmen AB ser. A</Name>
+    <Symbol>HOLM A</Symbol>
+    <Isin>SE0000171506</Isin>
+    <Id>SSE221</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Holmen AB ser. B</Name>
+    <Symbol>HOLM B</Symbol>
+    <Isin>SE0000109290</Isin>
+    <Id>SSE222</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Lundin Petroleum AB</Name>
+    <Symbol>LUPE</Symbol>
+    <Isin>SE0000825820</Isin>
+    <Id>SSE22335</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Opcon AB</Name>
+    <Symbol>OPCO</Symbol>
+    <Isin>SE0000426652</Isin>
+    <Id>SSE2282</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Brinova Fastigheter AB ser.B</Name>
+    <Symbol>BRIN B</Symbol>
+    <Isin>SE0001105487</Isin>
+    <Id>SSE22922</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>NOCOM AB ser. B</Name>
+    <Symbol>NOCM B</Symbol>
+    <Isin>SE0000373128</Isin>
+    <Id>SSE2346</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Oriflame Cosmetics S.A SDB</Name>
+    <Symbol>ORI SDB</Symbol>
+    <Isin>SE0001174889</Isin>
+    <Id>SSE24227</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Millicom International Cellular S.A. SDB</Name>
+    <Symbol>MIC SDB</Symbol>
+    <Isin>SE0001174970</Isin>
+    <Id>SSE24507</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Netonnet AB</Name>
+    <Symbol>NON</Symbol>
+    <Isin>SE0000657140</Isin>
+    <Id>SSE25084</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>NOTE AB</Name>
+    <Symbol>NOTE</Symbol>
+    <Isin>SE0001161654</Isin>
+    <Id>SSE25319</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>SCANIA AB ser. A</Name>
+    <Symbol>SCV A</Symbol>
+    <Isin>SE0000308272</Isin>
+    <Id>SSE260</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>SCANIA AB ser. B</Name>
+    <Symbol>SCV B</Symbol>
+    <Isin>SE0000308280</Isin>
+    <Id>SSE261</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Probi AB</Name>
+    <Symbol>PROB</Symbol>
+    <Isin>SE0001280355</Isin>
+    <Id>SSE27701</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Lundin Mining Corporation SDB</Name>
+    <Symbol>LUMI SDB</Symbol>
+    <Isin>SE0001134529</Isin>
+    <Id>SSE27709</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Skandinaviska Enskilda Banken ser. A</Name>
+    <Symbol>SEB A</Symbol>
+    <Isin>SE0000148884</Isin>
+    <Id>SSE281</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Skandinaviska Enskilda Banken ser. C</Name>
+    <Symbol>SEB C</Symbol>
+    <Isin>SE0000120784</Isin>
+    <Id>SSE282</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Skanska AB ser. B</Name>
+    <Symbol>SKA B</Symbol>
+    <Isin>SE0000113250</Isin>
+    <Id>SSE283</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>SKF AB ser. A</Name>
+    <Symbol>SKF A</Symbol>
+    <Isin>SE0000108201</Isin>
+    <Id>SSE284</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>SKF AB ser. B</Name>
+    <Symbol>SKF B</Symbol>
+    <Isin>SE0000108227</Isin>
+    <Id>SSE285</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Wihlborgs Fastigheter AB</Name>
+    <Symbol>WIHL</Symbol>
+    <Isin>SE0001413600</Isin>
+    <Id>SSE29759</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Connecta AB</Name>
+    <Symbol>CNTA</Symbol>
+    <Isin>SE0001161530</Isin>
+    <Id>SSE29954</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>SSAB Svenskt Stål AB ser. A</Name>
+    <Symbol>SSAB A</Symbol>
+    <Isin>SE0000171100</Isin>
+    <Id>SSE300</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>SSAB Svenskt Stål AB ser. B</Name>
+    <Symbol>SSAB B</Symbol>
+    <Isin>SE0000120669</Isin>
+    <Id>SSE301</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Gunnebo Industrier AB</Name>
+    <Symbol>GIAB</Symbol>
+    <Isin>SE0001447723</Isin>
+    <Id>SSE30126</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>CTT Systems AB</Name>
+    <Symbol>CTT</Symbol>
+    <Isin>SE0000418923</Isin>
+    <Id>SSE3081</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>SECTRA AB ser B</Name>
+    <Symbol>SECT B</Symbol>
+    <Isin>SE0000408189</Isin>
+    <Id>SSE3083</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Hemtex AB</Name>
+    <Symbol>HEMX</Symbol>
+    <Isin>SE0000698268</Isin>
+    <Id>SSE31293</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Indutrade AB</Name>
+    <Symbol>INDT</Symbol>
+    <Isin>SE0001515552</Isin>
+    <Id>SSE31308</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>TradeDoubler AB</Name>
+    <Symbol>TRAD</Symbol>
+    <Isin>SE0001552357</Isin>
+    <Id>SSE31884</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Orexo AB</Name>
+    <Symbol>ORX</Symbol>
+    <Isin>SE0000736415</Isin>
+    <Id>SSE31885</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Know IT AB</Name>
+    <Symbol>KNOW</Symbol>
+    <Isin>SE0000421273</Isin>
+    <Id>SSE3219</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Svenska Cellulosa AB SCA ser. A</Name>
+    <Symbol>SCA A</Symbol>
+    <Isin>SE0000171886</Isin>
+    <Id>SSE322</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Malmbergs Elektriska AB ser. B</Name>
+    <Symbol>MEAB B</Symbol>
+    <Isin>SE0000507659</Isin>
+    <Id>SSE3223</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Svenska Cellulosa AB SCA ser. B</Name>
+    <Symbol>SCA B</Symbol>
+    <Isin>SE0000112724</Isin>
+    <Id>SSE323</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Hakon Invest AB</Name>
+    <Symbol>HAKN</Symbol>
+    <Isin>SE0000652216</Isin>
+    <Id>SSE32443</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Home Properties AB</Name>
+    <Symbol>HOPR</Symbol>
+    <Isin>SE0000525057</Isin>
+    <Id>SSE3245</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>EpiCept Corporation</Name>
+    <Symbol>EPCT</Symbol>
+    <Isin>US2942642057</Isin>
+    <Id>SSE32838</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>KappAhl Holding AB</Name>
+    <Symbol>KAHL</Symbol>
+    <Isin>SE0001630880</Isin>
+    <Id>SSE33359</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Svenska Handelsbanken ser. A</Name>
+    <Symbol>SHB A</Symbol>
+    <Isin>SE0000193120</Isin>
+    <Id>SSE340</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Svenska Handelsbanken ser. B</Name>
+    <Symbol>SHB B</Symbol>
+    <Isin>SE0000152084</Isin>
+    <Id>SSE341</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Diös Fastigheter AB</Name>
+    <Symbol>DIOS</Symbol>
+    <Isin>SE0001634262</Isin>
+    <Id>SSE34271</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Catena AB</Name>
+    <Symbol>CATE</Symbol>
+    <Isin>SE0001664707</Isin>
+    <Id>SSE34362</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Lawson Software Inc.</Name>
+    <Symbol>LWSN</Symbol>
+    <Isin>US52078P1021</Isin>
+    <Id>SSE34458</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Husqvarna AB ser. A</Name>
+    <Symbol>HUSQ A</Symbol>
+    <Isin>SE0001662222</Isin>
+    <Id>SSE34913</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Husqvarna AB ser. B</Name>
+    <Symbol>HUSQ B</Symbol>
+    <Isin>SE0001662230</Isin>
+    <Id>SSE34915</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>PA Resources</Name>
+    <Symbol>PAR SEK</Symbol>
+    <Isin>SE0000818569</Isin>
+    <Id>SSE34961</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>AstraZeneca PLC</Name>
+    <Symbol>AZN</Symbol>
+    <Isin>GB0009895292</Isin>
+    <Id>SSE3524</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Teligent AB</Name>
+    <Symbol>TGNT</Symbol>
+    <Isin>SE0000434342</Isin>
+    <Id>SSE3539</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>HiQ International AB</Name>
+    <Symbol>HIQ</Symbol>
+    <Isin>SE0000461709</Isin>
+    <Id>SSE3540</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Kungsleden AB</Name>
+    <Symbol>KLED</Symbol>
+    <Isin>SE0000549412</Isin>
+    <Id>SSE3546</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Svithoid Tankers AB ser. B</Name>
+    <Symbol>SVIT B</Symbol>
+    <Isin>SE0000641151</Isin>
+    <Id>SSE35507</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Jeeves Information Systems AB</Name>
+    <Symbol>JEEV</Symbol>
+    <Isin>SE0000545626</Isin>
+    <Id>SSE3555</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Digital Vision AB</Name>
+    <Symbol>DV</Symbol>
+    <Isin>SE0000556292</Isin>
+    <Id>SSE3571</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Modern Times Group MTG AB ser. A</Name>
+    <Symbol>MTG A</Symbol>
+    <Isin>SE0000412363</Isin>
+    <Id>SSE3598</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Modern Times Group MTG AB ser. B</Name>
+    <Symbol>MTG B</Symbol>
+    <Isin>SE0000412371</Isin>
+    <Id>SSE3599</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Swedish Match AB</Name>
+    <Symbol>SWMA</Symbol>
+    <Isin>SE0000310336</Isin>
+    <Id>SSE361</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>AarhusKarlshamn AB</Name>
+    <Symbol>AAK</Symbol>
+    <Isin>SE0001493776</Isin>
+    <Id>SSE36273</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Biovitrum AB</Name>
+    <Symbol>BVT</Symbol>
+    <Isin>SE0000872095</Isin>
+    <Id>SSE36316</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Trelleborg AB ser. B</Name>
+    <Symbol>TREL B</Symbol>
+    <Isin>SE0000114837</Isin>
+    <Id>SSE364</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Niscayah Group AB ser. B</Name>
+    <Symbol>NISC B</Symbol>
+    <Isin>SE0001785197</Isin>
+    <Id>SSE36480</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Volvo AB ser. A</Name>
+    <Symbol>VOLV A</Symbol>
+    <Isin>SE0000115420</Isin>
+    <Id>SSE365</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Volvo AB ser. B</Name>
+    <Symbol>VOLV B</Symbol>
+    <Isin>SE0000115446</Isin>
+    <Id>SSE366</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Unibet Group Plc</Name>
+    <Symbol>UNIB SDB</Symbol>
+    <Isin>SE0001835588</Isin>
+    <Id>SSE36950</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Uniflex AB ser. B</Name>
+    <Symbol>UFLX B</Symbol>
+    <Isin>SE0001283607</Isin>
+    <Id>SSE36986</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>BE Group AB</Name>
+    <Symbol>BEGR</Symbol>
+    <Isin>SE0001852211</Isin>
+    <Id>SSE37309</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Rezidor Hotel Group AB</Name>
+    <Symbol>REZT</Symbol>
+    <Isin>SE0001857533</Isin>
+    <Id>SSE37352</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Lindab International AB</Name>
+    <Symbol>LIAB</Symbol>
+    <Isin>SE0001852419</Isin>
+    <Id>SSE37400</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Melker Schörling AB</Name>
+    <Symbol>MELK</Symbol>
+    <Isin>SE0001785270</Isin>
+    <Id>SSE37472</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>LinkMed AB</Name>
+    <Symbol>LMED</Symbol>
+    <Isin>SE0000619181</Isin>
+    <Id>SSE37656</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Tilgin AB</Name>
+    <Symbol>TILG</Symbol>
+    <Isin>SE0001131269</Isin>
+    <Id>SSE37679</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Rejlerkoncernen AB</Name>
+    <Symbol>REJL B</Symbol>
+    <Isin>SE0000123671</Isin>
+    <Id>SSE37758</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Net Insight AB ser. B</Name>
+    <Symbol>NETI B</Symbol>
+    <Isin>SE0000366098</Isin>
+    <Id>SSE3871</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Tanganyika Oil Company Ltd. SDB</Name>
+    <Symbol>TYKS SDB</Symbol>
+    <Isin>SE0001134537</Isin>
+    <Id>SSE38766</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>AddNode AB ser. B</Name>
+    <Symbol>ANOD B</Symbol>
+    <Isin>SE0000472268</Isin>
+    <Id>SSE3887</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Midelfart Sonesson AB ser. A</Name>
+    <Symbol>MSON A</Symbol>
+    <Isin>SE0000565210</Isin>
+    <Id>SSE3921</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Midelfart Sonesson AB ser. B</Name>
+    <Symbol>MSON B</Symbol>
+    <Isin>SE0000565228</Isin>
+    <Id>SSE3922</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Karo Bio AB</Name>
+    <Symbol>KARO</Symbol>
+    <Isin>SE0000571416</Isin>
+    <Id>SSE3927</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>ABB Ltd</Name>
+    <Symbol>ABB</Symbol>
+    <Isin>CH0012221716</Isin>
+    <Id>SSE3966</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>ReadSoft AB ser. B</Name>
+    <Symbol>RSOF B</Symbol>
+    <Isin>SE0000479107</Isin>
+    <Id>SSE3967</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>LBI International AB</Name>
+    <Symbol>LBI</Symbol>
+    <Isin>SE0000495293</Isin>
+    <Id>SSE3972</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Poolia AB ser. B</Name>
+    <Symbol>POOL B</Symbol>
+    <Isin>SE0000567539</Isin>
+    <Id>SSE3974</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>NovaCast Technologies AB ser. B</Name>
+    <Symbol>NCAS B</Symbol>
+    <Isin>SE0000362675</Isin>
+    <Id>SSE39947</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>NOVOTEK AB ser. B</Name>
+    <Symbol>NTEK B</Symbol>
+    <Isin>SE0000567752</Isin>
+    <Id>SSE4000</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Proact IT Group AB</Name>
+    <Symbol>PACT</Symbol>
+    <Isin>SE0000412991</Isin>
+    <Id>SSE4003</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Duroc AB ser. B</Name>
+    <Symbol>DURC B</Symbol>
+    <Isin>SE0000331266</Isin>
+    <Id>SSE4005</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Securitas AB ser. B</Name>
+    <Symbol>SECU B</Symbol>
+    <Isin>SE0000163594</Isin>
+    <Id>SSE401</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>ASSA ABLOY AB ser. B</Name>
+    <Symbol>ASSA B</Symbol>
+    <Isin>SE0000255648</Isin>
+    <Id>SSE402</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>TietoEnator Oyj</Name>
+    <Symbol>TIE1V</Symbol>
+    <Isin>FI0009000277</Isin>
+    <Id>SSE4025</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Björn Borg AB</Name>
+    <Symbol>BORG</Symbol>
+    <Isin>SE0001289190</Isin>
+    <Id>SSE40286</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Nederman Holding AB</Name>
+    <Symbol>NMAN</Symbol>
+    <Isin>SE0002000083</Isin>
+    <Id>SSE40347</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>West Siberian Resources Ltd. SDB</Name>
+    <Symbol>WSIB SDB</Symbol>
+    <Isin>SE0000739286</Isin>
+    <Id>SSE40583</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Vostok Nafta Investment Ltd SDB</Name>
+    <Symbol>VNIL SDB</Symbol>
+    <Isin>SE0002056721</Isin>
+    <Id>SSE41044</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Aerocrine AB Ser. B</Name>
+    <Symbol>AERO B</Symbol>
+    <Isin>SE0000434292</Isin>
+    <Id>SSE41047</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Clas Ohlson AB ser. B</Name>
+    <Symbol>CLAS B</Symbol>
+    <Isin>SE0000584948</Isin>
+    <Id>SSE4145</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Proffice AB ser. B</Name>
+    <Symbol>PROE B</Symbol>
+    <Isin>SE0000470700</Isin>
+    <Id>SSE4208</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Fastighets AB Balder ser. B</Name>
+    <Symbol>BALD B</Symbol>
+    <Isin>SE0000455057</Isin>
+    <Id>SSE4212</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>A-Com AB</Name>
+    <Symbol>ACOM</Symbol>
+    <Isin>SE0000592677</Isin>
+    <Id>SSE4287</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Peab Industri AB ser. B</Name>
+    <Symbol>PIND B</Symbol>
+    <Isin>SE0002091496</Isin>
+    <Id>SSE42887</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Systemair AB</Name>
+    <Symbol>SYSR</Symbol>
+    <Isin>SE0002133975</Isin>
+    <Id>SSE43007</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Sagax AB</Name>
+    <Symbol>SAGA</Symbol>
+    <Isin>SE0000538852</Isin>
+    <Id>SSE43045</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Sagax AB pref</Name>
+    <Symbol>SAGA PREF</Symbol>
+    <Isin>SE0001629288</Isin>
+    <Id>SSE43046</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>HMS Networks AB</Name>
+    <Symbol>HMS</Symbol>
+    <Isin>SE0002136242</Isin>
+    <Id>SSE43302</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Cybercom Group Europe AB</Name>
+    <Symbol>CYBE</Symbol>
+    <Isin>SE0000702169</Isin>
+    <Id>SSE4345</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Q-Med AB</Name>
+    <Symbol>QMED</Symbol>
+    <Isin>SE0000426462</Isin>
+    <Id>SSE4354</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>MultiQ International AB</Name>
+    <Symbol>MULQ</Symbol>
+    <Isin>SE0000353898</Isin>
+    <Id>SSE4359</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Atlas Copco AB ser. A</Name>
+    <Symbol>ATCO A</Symbol>
+    <Isin>SE0000101032</Isin>
+    <Id>SSE45</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Axfood AB</Name>
+    <Symbol>AXFO</Symbol>
+    <Isin>SE0000635401</Isin>
+    <Id>SSE4590</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Atlas Copco AB ser. B</Name>
+    <Symbol>ATCO B</Symbol>
+    <Isin>SE0000122467</Isin>
+    <Id>SSE46</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Autoliv Inc. SDB</Name>
+    <Symbol>ALIV SDB</Symbol>
+    <Isin>SE0000382335</Isin>
+    <Id>SSE47</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Micronic Laser Systems AB</Name>
+    <Symbol>MICR</Symbol>
+    <Isin>SE0000375115</Isin>
+    <Id>SSE4714</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Fingerprint Cards AB ser. B</Name>
+    <Symbol>FING B</Symbol>
+    <Isin>SE0000422107</Isin>
+    <Id>SSE4870</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Nordnet AB ser. B</Name>
+    <Symbol>NN B</Symbol>
+    <Isin>SE0000371296</Isin>
+    <Id>SSE4872</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Sandvik AB</Name>
+    <Symbol>SAND</Symbol>
+    <Isin>SE0000667891</Isin>
+    <Id>SSE4928</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>East Capital Explorer AB</Name>
+    <Symbol>ECEX</Symbol>
+    <Isin>SE0002158568</Isin>
+    <Id>SSE49615</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Traction AB ser. B</Name>
+    <Symbol>TRAC B</Symbol>
+    <Isin>SE0000391716</Isin>
+    <Id>SSE4963</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Duni AB</Name>
+    <Symbol>DUNI</Symbol>
+    <Isin>SE0000616716</Isin>
+    <Id>SSE49775</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Mekonomen AB</Name>
+    <Symbol>MEKO</Symbol>
+    <Isin>SE0002110064</Isin>
+    <Id>SSE4986</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Phonera AB</Name>
+    <Symbol>PHON</Symbol>
+    <Isin>SE0000582603</Isin>
+    <Id>SSE5000</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Feelgood Svenska AB</Name>
+    <Symbol>FEEL</Symbol>
+    <Isin>SE0000381840</Isin>
+    <Id>SSE5053</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Beijer Electronics AB</Name>
+    <Symbol>BELE</Symbol>
+    <Isin>SE0000671711</Isin>
+    <Id>SSE5081</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>TeliaSonera AB</Name>
+    <Symbol>TLS1V</Symbol>
+    <Isin>SE0000667925</Isin>
+    <Id>SSE5095</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Anoto Group AB</Name>
+    <Symbol>ANOT</Symbol>
+    <Isin>SE0000547929</Isin>
+    <Id>SSE5110</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Novestra AB</Name>
+    <Symbol>NOVE</Symbol>
+    <Isin>SE0000514689</Isin>
+    <Id>SSE5116</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Betsson AB ser. B</Name>
+    <Symbol>BETS B</Symbol>
+    <Isin>SE0000102378</Isin>
+    <Id>SSE5121</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Axis AB</Name>
+    <Symbol>AXIS</Symbol>
+    <Isin>SE0000672354</Isin>
+    <Id>SSE5150</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Nordic Service Partners Holding AB ser B</Name>
+    <Symbol>NSP B</Symbol>
+    <Isin>SE0000476954</Isin>
+    <Id>SSE51621</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Biotage AB</Name>
+    <Symbol>BIOT</Symbol>
+    <Isin>SE0000454746</Isin>
+    <Id>SSE5209</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>HQ AB</Name>
+    <Symbol>HQ</Symbol>
+    <Isin>SE0000622656</Isin>
+    <Id>SSE5219</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Din Bostad Sverige AB</Name>
+    <Symbol>DIN</Symbol>
+    <Isin>SE0000614695</Isin>
+    <Id>SSE5256</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Morphic Technologies AB ser. B</Name>
+    <Symbol>MORP B</Symbol>
+    <Isin>SE0000672115</Isin>
+    <Id>SSE53228</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Thalamus Networks AB ser. B</Name>
+    <Symbol>THAL B</Symbol>
+    <Isin>SE0000483943</Isin>
+    <Id>SSE5364</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>AudioDev AB ser B</Name>
+    <Symbol>AUDV B</Symbol>
+    <Isin>SE0000708620</Isin>
+    <Id>SSE5489</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>HEXPOL AB ser. B</Name>
+    <Symbol>HPOL B</Symbol>
+    <Isin>SE0002452623</Isin>
+    <Id>SSE55907</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Swedol AB ser. B</Name>
+    <Symbol>SWOL B</Symbol>
+    <Isin>SE0001733841</Isin>
+    <Id>SSE55913</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>DGC One AB</Name>
+    <Symbol>DGC</Symbol>
+    <Isin>SE0002571539</Isin>
+    <Id>SSE56154</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Carl Lamm Holding AB</Name>
+    <Symbol>CLHO</Symbol>
+    <Isin>SE0002469312</Isin>
+    <Id>SSE56490</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>ITAB Shop Concept AB ser. B</Name>
+    <Symbol>ITAB B</Symbol>
+    <Isin>SE0001198714</Isin>
+    <Id>SSE56940</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Nordic Mines AB</Name>
+    <Symbol>NOMI</Symbol>
+    <Isin>SE0001672809</Isin>
+    <Id>SSE57018</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Beijer AB G &amp; L ser. B</Name>
+    <Symbol>BEIJ B</Symbol>
+    <Isin>SE0000112906</Isin>
+    <Id>SSE792</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>B&amp;B TOOLS AB ser. B</Name>
+    <Symbol>BBTO B</Symbol>
+    <Isin>SE0000101362</Isin>
+    <Id>SSE793</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Bilia AB ser. A</Name>
+    <Symbol>BILI A</Symbol>
+    <Isin>SE0000102295</Isin>
+    <Id>SSE794</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Electrolux AB ser. A</Name>
+    <Symbol>ELUX A</Symbol>
+    <Isin>SE0000103806</Isin>
+    <Id>SSE80</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Bure Equity AB</Name>
+    <Symbol>BURE</Symbol>
+    <Isin>SE0000195810</Isin>
+    <Id>SSE800</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Cardo AB</Name>
+    <Symbol>CARD</Symbol>
+    <Isin>SE0000262982</Isin>
+    <Id>SSE801</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Consilium AB ser. B</Name>
+    <Symbol>CONS B</Symbol>
+    <Isin>SE0000236382</Isin>
+    <Id>SSE803</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Elekta AB ser. B</Name>
+    <Symbol>EKTA B</Symbol>
+    <Isin>SE0000163628</Isin>
+    <Id>SSE806</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Electrolux AB ser. B</Name>
+    <Symbol>ELUX B</Symbol>
+    <Isin>SE0000103814</Isin>
+    <Id>SSE81</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Getinge AB ser. B</Name>
+    <Symbol>GETI B</Symbol>
+    <Isin>SE0000202624</Isin>
+    <Id>SSE812</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Geveko AB ser. B</Name>
+    <Symbol>GVKO B</Symbol>
+    <Isin>SE0000105264</Isin>
+    <Id>SSE813</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Gunnebo AB</Name>
+    <Symbol>GUNN</Symbol>
+    <Isin>SE0000195570</Isin>
+    <Id>SSE816</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Haldex AB</Name>
+    <Symbol>HLDX</Symbol>
+    <Isin>SE0000105199</Isin>
+    <Id>SSE817</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Hexagon AB ser. B</Name>
+    <Symbol>HEXA B</Symbol>
+    <Isin>SE0000103699</Isin>
+    <Id>SSE819</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Hufvudstaden AB ser. A</Name>
+    <Symbol>HUFV A</Symbol>
+    <Isin>SE0000170375</Isin>
+    <Id>SSE820</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Hufvudstaden AB ser. C</Name>
+    <Symbol>HUFV C</Symbol>
+    <Isin>SE0000170383</Isin>
+    <Id>SSE821</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Höganäs AB ser. B</Name>
+    <Symbol>HOGA B</Symbol>
+    <Isin>SE0000232175</Isin>
+    <Id>SSE824</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Midway Holding AB ser. A</Name>
+    <Symbol>MIDW A</Symbol>
+    <Isin>SE0000122657</Isin>
+    <Id>SSE834</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Midway Holding AB ser. B</Name>
+    <Symbol>MIDW B</Symbol>
+    <Isin>SE0000122673</Isin>
+    <Id>SSE835</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>NCC AB ser. A</Name>
+    <Symbol>NCC A</Symbol>
+    <Isin>SE0000118952</Isin>
+    <Id>SSE837</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>NCC AB ser. B</Name>
+    <Symbol>NCC B</Symbol>
+    <Isin>SE0000117970</Isin>
+    <Id>SSE838</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Scribona AB ser. A</Name>
+    <Symbol>SCRI A</Symbol>
+    <Isin>SE0000188500</Isin>
+    <Id>SSE854</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Scribona AB ser. B</Name>
+    <Symbol>SCRI B</Symbol>
+    <Isin>SE0000188518</Isin>
+    <Id>SSE855</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Seco Tools AB ser. B</Name>
+    <Symbol>SECO B</Symbol>
+    <Isin>SE0000118838</Isin>
+    <Id>SSE856</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Fabege AB</Name>
+    <Symbol>FABG</Symbol>
+    <Isin>SE0000950636</Isin>
+    <Id>SSE861</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>ÅF AB ser. B</Name>
+    <Symbol>AF B</Symbol>
+    <Isin>SE0000115578</Isin>
+    <Id>SSE862</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Öresund Investmentab</Name>
+    <Symbol>ORES</Symbol>
+    <Isin>SE0000115610</Isin>
+    <Id>SSE863</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Beijer Alma AB ser. B</Name>
+    <Symbol>BEIA B</Symbol>
+    <Isin>SE0000190134</Isin>
+    <Id>SSE875</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Active Biotech AB</Name>
+    <Symbol>ACTI</Symbol>
+    <Isin>SE0001137985</Isin>
+    <Id>SSE877</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Affärsstrategerna AB ser. B</Name>
+    <Symbol>AFFS B</Symbol>
+    <Isin>SE0000445934</Isin>
+    <Id>SSE878</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Bergs Timber AB ser. B</Name>
+    <Symbol>BRG B</Symbol>
+    <Isin>SE0000101297</Isin>
+    <Id>SSE891</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Bong Ljungdahl AB</Name>
+    <Symbol>BONG</Symbol>
+    <Isin>SE0000396061</Isin>
+    <Id>SSE892</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Borås Wäfveri AB ser. B</Name>
+    <Symbol>WAFV B</Symbol>
+    <Isin>SE0000101891</Isin>
+    <Id>SSE893</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>BRIO AB ser. B</Name>
+    <Symbol>BRIO B</Symbol>
+    <Isin>SE0000102006</Isin>
+    <Id>SSE894</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>DORO AB</Name>
+    <Symbol>DORO</Symbol>
+    <Isin>SE0000215493</Isin>
+    <Id>SSE896</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Elanders AB ser. B</Name>
+    <Symbol>ELAN B</Symbol>
+    <Isin>SE0000119299</Isin>
+    <Id>SSE897</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>ElektronikGruppen BK AB ser. B</Name>
+    <Symbol>ELGR B</Symbol>
+    <Isin>SE0000101669</Isin>
+    <Id>SSE899</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Ledstiernan AB ser. B</Name>
+    <Symbol>LEDS B</Symbol>
+    <Isin>SE0000251902</Isin>
+    <Id>SSE900</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Fagerhult AB</Name>
+    <Symbol>FAG</Symbol>
+    <Isin>SE0000379844</Isin>
+    <Id>SSE903</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Fenix Outdoor AB ser. B</Name>
+    <Symbol>FIX B</Symbol>
+    <Isin>SE0000104788</Isin>
+    <Id>SSE905</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>HL Display AB ser. B</Name>
+    <Symbol>HL B</Symbol>
+    <Isin>SE0000214058</Isin>
+    <Id>SSE909</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>IBS AB ser. B</Name>
+    <Symbol>IBS B</Symbol>
+    <Isin>SE0000106759</Isin>
+    <Id>SSE910</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>KABE Husvagnar AB ser. B</Name>
+    <Symbol>KABE B</Symbol>
+    <Isin>SE0000107724</Isin>
+    <Id>SSE912</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Latour Investmentab. ser. A</Name>
+    <Symbol>LATO A</Symbol>
+    <Isin>SE0000106304</Isin>
+    <Id>SSE913</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Latour Investmentab. ser. B</Name>
+    <Symbol>LATO B</Symbol>
+    <Isin>SE0000106320</Isin>
+    <Id>SSE914</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Meda AB ser. A</Name>
+    <Symbol>MEDA A</Symbol>
+    <Isin>SE0000221723</Isin>
+    <Id>SSE917</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>New Wave Group AB ser. B</Name>
+    <Symbol>NEWA B</Symbol>
+    <Isin>SE0000426546</Isin>
+    <Id>SSE920</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>NIBE Industrier AB ser. B</Name>
+    <Symbol>NIBE B</Symbol>
+    <Isin>SE0000390296</Isin>
+    <Id>SSE921</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Nilörngruppen AB ser. B</Name>
+    <Symbol>NILG B</Symbol>
+    <Isin>SE0000418402</Isin>
+    <Id>SSE922</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Nolato AB ser. B</Name>
+    <Symbol>NOLA B</Symbol>
+    <Isin>SE0000109811</Isin>
+    <Id>SSE923</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>OEM International AB ser. B</Name>
+    <Symbol>OEM B</Symbol>
+    <Isin>SE0000110116</Isin>
+    <Id>SSE927</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Peab AB ser. B</Name>
+    <Symbol>PEAB B</Symbol>
+    <Isin>SE0000106205</Isin>
+    <Id>SSE928</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>ProfilGruppen AB ser. B</Name>
+    <Symbol>PROF B</Symbol>
+    <Isin>SE0000393860</Isin>
+    <Id>SSE929</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Rottneros AB</Name>
+    <Symbol>RROS</Symbol>
+    <Isin>SE0000112252</Isin>
+    <Id>SSE930</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Svedbergs i Dalstorp AB ser. B</Name>
+    <Symbol>SVED B</Symbol>
+    <Isin>SE0000407991</Isin>
+    <Id>SSE935</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Svolder AB ser. A</Name>
+    <Symbol>SVOL A</Symbol>
+    <Isin>SE0000205932</Isin>
+    <Id>SSE936</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Svolder AB ser. B</Name>
+    <Symbol>SVOL B</Symbol>
+    <Isin>SE0000205940</Isin>
+    <Id>SSE937</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>SäkI AB</Name>
+    <Symbol>SAEK</Symbol>
+    <Isin>SE0000379075</Isin>
+    <Id>SSE938</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>SkiStar AB ser. B</Name>
+    <Symbol>SKIS B</Symbol>
+    <Isin>SE0000241614</Isin>
+    <Id>SSE939</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Intellecta AB ser. B</Name>
+    <Symbol>ICTA B</Symbol>
+    <Isin>SE0000135287</Isin>
+    <Id>SSE941</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>VBG GROUP AB ser. B</Name>
+    <Symbol>VBG B</Symbol>
+    <Isin>SE0000115107</Isin>
+    <Id>SSE942</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Wallenstam Byggnads AB. Lennart ser. B</Name>
+    <Symbol>WALL B</Symbol>
+    <Isin>SE0000115008</Isin>
+    <Id>SSE945</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Wedins Skor &amp; Accessoarer AB ser. B</Name>
+    <Symbol>WED B</Symbol>
+    <Isin>SE0000396822</Isin>
+    <Id>SSE946</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Elos AB ser. B</Name>
+    <Symbol>ELOS B</Symbol>
+    <Isin>SE0000120776</Isin>
+    <Id>SSE947</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Artimplant AB ser. B</Name>
+    <Symbol>ARTI B</Symbol>
+    <Isin>SE0000413221</Isin>
+    <Id>SSE953</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>BioGaia AB ser. B</Name>
+    <Symbol>BIOG B</Symbol>
+    <Isin>SE0000470395</Isin>
+    <Id>SSE959</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>BioPhausia AB</Name>
+    <Symbol>BIOP</Symbol>
+    <Isin>SE0001048984</Isin>
+    <Id>SSE960</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Broström AB ser.B</Name>
+    <Symbol>BRO B</Symbol>
+    <Isin>SE0000254880</Isin>
+    <Id>SSE962</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Rederi AB Transatlantic ser. B</Name>
+    <Symbol>RABT B</Symbol>
+    <Isin>SE0000143521</Isin>
+    <Id>SSE964</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Castellum AB</Name>
+    <Symbol>CAST</Symbol>
+    <Isin>SE0000379190</Isin>
+    <Id>SSE966</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Cloetta Fazer AB ser. B</Name>
+    <Symbol>CFA B</Symbol>
+    <Isin>SE0000102642</Isin>
+    <Id>SSE969</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Concordia Maritime AB ser. B</Name>
+    <Symbol>CCOR B</Symbol>
+    <Isin>SE0000102824</Isin>
+    <Id>SSE971</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Fast Partner AB</Name>
+    <Symbol>FPAR</Symbol>
+    <Isin>SE0000224446</Isin>
+    <Id>SSE980</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Acando AB ser. B</Name>
+    <Symbol>ACAN B</Symbol>
+    <Isin>SE0000105116</Isin>
+    <Id>SSE981</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Avanza Bank Holding AB</Name>
+    <Symbol>AZA</Symbol>
+    <Isin>SE0000170110</Isin>
+    <Id>SSE988</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Havsfrun Investment AB ser. B</Name>
+    <Symbol>HAV B</Symbol>
+    <Isin>SE0000312043</Isin>
+    <Id>SSE990</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Heba Fastighets AB ser. B</Name>
+    <Symbol>HEBA B</Symbol>
+    <Isin>SE0000236515</Isin>
+    <Id>SSE991</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Hennes &amp; Mauritz AB H &amp; M ser. B</Name>
+    <Symbol>HM B</Symbol>
+    <Isin>SE0000106270</Isin>
+    <Id>SSE992</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Industrial &amp; Financial Systems AB ser. A</Name>
+    <Symbol>IFS A</Symbol>
+    <Isin>SE0000189953</Isin>
+    <Id>SSE994</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Industrial &amp; Financial Systems AB ser. B</Name>
+    <Symbol>IFS B</Symbol>
+    <Isin>SE0000189946</Isin>
+    <Id>SSE995</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Kinnevik Investment AB ser. A</Name>
+    <Symbol>KINV A</Symbol>
+    <Isin>SE0000164600</Isin>
+    <Id>SSE998</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>Kinnevik Investment AB ser. B</Name>
+    <Symbol>KINV B</Symbol>
+    <Isin>SE0000164626</Isin>
+    <Id>SSE999</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>OMX Copenhagen 20</Name>
+    <Symbol>^OMXC20</Symbol>
+    <Isin>DX0000001376</Isin>
+    <Id>CSEDX0000001376</Id>
+    <Currency>DKK</Currency>
+    <Exchange>CSE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>VINX 30</Name>
+    <Symbol>^VINX30</Symbol>
+    <Isin>SE0001632829</Isin>
+    <Id>SSESE0001632829</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>OMX Stockholm 30</Name>
+    <Symbol>^OMXS30</Symbol>
+    <Isin>SE0000337842</Isin>
+    <Id>SSESE0000337842</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>OMX Stockholm Benchmark_GI</Name>
+    <Symbol>^OMXSBGI</Symbol>
+    <Isin>SE0000744211</Isin>
+    <Id>SSESE0000744211</Id>
+    <Currency>SEK</Currency>
+    <Exchange>STO</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>OMX Iceland 15</Name>
+    <Symbol>^OMXI15</Symbol>
+    <Isin>IS0000004380</Isin>
+    <Id>ICEIS0000004380</Id>
+    <Currency>ISK</Currency>
+    <Exchange>ISE</Exchange>
+  </SymbolTable>
+  <SymbolTable>
+    <Name>OMX_Baltic_10</Name>
+    <Symbol>^OMXB10</Symbol>
+    <Isin>SE0001850033</Isin>
+    <Id>RISSE0001850033</Id>
+    <Currency>EUR</Currency>
+    <Exchange>HEL</Exchange>
+  </SymbolTable>  
+</SymbolSet>

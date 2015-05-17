@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="MappingSet" targetNamespace="http://tempuri.org/MappingSet.xsd" xmlns:mstns="http://tempuri.org/MappingSet.xsd" xmlns="http://tempuri.org/MappingSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+        </Connections>
+        <Tables>
+        </Tables>
+        <Sources>
+        </Sources>
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="MappingSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="MappingSet" msprop:Generator_DataSetName="MappingSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="ExchangeTable" msprop:Generator_UserTableName="ExchangeTable" msprop:Generator_RowDeletedName="ExchangeTableRowDeleted" msprop:Generator_RowChangedName="ExchangeTableRowChanged" msprop:Generator_RowClassName="ExchangeTableRow" msprop:Generator_RowChangingName="ExchangeTableRowChanging" msprop:Generator_RowEvArgName="ExchangeTableRowChangeEvent" msprop:Generator_RowEvHandlerName="ExchangeTableRowChangeEventHandler" msprop:Generator_TableClassName="ExchangeTableDataTable" msprop:Generator_TableVarName="tableExchangeTable" msprop:Generator_RowDeletingName="ExchangeTableRowDeleting" msprop:Generator_TablePropName="ExchangeTable">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Code" msprop:Generator_UserColumnName="Code" msprop:Generator_ColumnVarNameInTable="columnCode" msprop:Generator_ColumnPropNameInRow="Code" msprop:Generator_ColumnPropNameInTable="CodeColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Description" msprop:Generator_UserColumnName="Description" msprop:Generator_ColumnVarNameInTable="columnDescription" msprop:Generator_ColumnPropNameInRow="Description" msprop:Generator_ColumnPropNameInTable="DescriptionColumn" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="CurrencyTable" msprop:Generator_UserTableName="CurrencyTable" msprop:Generator_RowDeletedName="CurrencyTableRowDeleted" msprop:Generator_RowChangedName="CurrencyTableRowChanged" msprop:Generator_RowClassName="CurrencyTableRow" msprop:Generator_RowChangingName="CurrencyTableRowChanging" msprop:Generator_RowEvArgName="CurrencyTableRowChangeEvent" msprop:Generator_RowEvHandlerName="CurrencyTableRowChangeEventHandler" msprop:Generator_TableClassName="CurrencyTableDataTable" msprop:Generator_TableVarName="tableCurrencyTable" msprop:Generator_RowDeletingName="CurrencyTableRowDeleting" msprop:Generator_TablePropName="CurrencyTable">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Code" msprop:Generator_UserColumnName="Code" msprop:Generator_ColumnVarNameInTable="columnCode" msprop:Generator_ColumnPropNameInRow="Code" msprop:Generator_ColumnPropNameInTable="CodeColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Description" msprop:Generator_UserColumnName="Description" msprop:Generator_ColumnVarNameInTable="columnDescription" msprop:Generator_ColumnPropNameInRow="Description" msprop:Generator_ColumnPropNameInTable="DescriptionColumn" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="StrikeTable" msprop:Generator_UserTableName="StrikeTable" msprop:Generator_RowDeletedName="StrikeTableRowDeleted" msprop:Generator_RowChangedName="StrikeTableRowChanged" msprop:Generator_RowClassName="StrikeTableRow" msprop:Generator_RowChangingName="StrikeTableRowChanging" msprop:Generator_RowEvArgName="StrikeTableRowChangeEvent" msprop:Generator_RowEvHandlerName="StrikeTableRowChangeEventHandler" msprop:Generator_TableClassName="StrikeTableDataTable" msprop:Generator_TableVarName="tableStrikeTable" msprop:Generator_RowDeletingName="StrikeTableRowDeleting" msprop:Generator_TablePropName="StrikeTable">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Strike" msprop:Generator_UserColumnName="Strike" msprop:Generator_ColumnPropNameInRow="Strike" msprop:Generator_ColumnVarNameInTable="columnStrike" msprop:Generator_ColumnPropNameInTable="StrikeColumn" type="xs:double" />
+              <xs:element name="StrikeString" msprop:Generator_UserColumnName="StrikeString" msprop:Generator_ColumnPropNameInRow="StrikeString" msprop:Generator_ColumnVarNameInTable="columnStrikeString" msprop:Generator_ColumnPropNameInTable="StrikeStringColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Enabled" msprop:Generator_UserColumnName="Enabled" msprop:Generator_ColumnVarNameInTable="columnEnabled" msprop:Generator_ColumnPropNameInRow="Enabled" msprop:Generator_ColumnPropNameInTable="EnabledColumn" type="xs:boolean" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="ExpirationTable" msprop:Generator_UserTableName="ExpirationTable" msprop:Generator_RowDeletedName="ExpirationTableRowDeleted" msprop:Generator_RowChangedName="ExpirationTableRowChanged" msprop:Generator_RowClassName="ExpirationTableRow" msprop:Generator_RowChangingName="ExpirationTableRowChanging" msprop:Generator_RowEvArgName="ExpirationTableRowChangeEvent" msprop:Generator_RowEvHandlerName="ExpirationTableRowChangeEventHandler" msprop:Generator_TableClassName="ExpirationTableDataTable" msprop:Generator_TableVarName="tableExpirationTable" msprop:Generator_RowDeletingName="ExpirationTableRowDeleting" msprop:Generator_TablePropName="ExpirationTable">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Expiration" msprop:Generator_UserColumnName="Expiration" msprop:Generator_ColumnPropNameInRow="Expiration" msprop:Generator_ColumnVarNameInTable="columnExpiration" msprop:Generator_ColumnPropNameInTable="ExpirationColumn" type="xs:dateTime" />
+              <xs:element name="ExpirationString" msprop:Generator_UserColumnName="ExpirationString" msprop:Generator_ColumnPropNameInRow="ExpirationString" msprop:Generator_ColumnVarNameInTable="columnExpirationString" msprop:Generator_ColumnPropNameInTable="ExpirationStringColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Enabled" msprop:Generator_UserColumnName="Enabled" msprop:Generator_ColumnVarNameInTable="columnEnabled" msprop:Generator_ColumnPropNameInRow="Enabled" msprop:Generator_ColumnPropNameInTable="EnabledColumn" type="xs:boolean" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="TypeTable" msprop:Generator_UserTableName="TypeTable" msprop:Generator_RowDeletedName="TypeTableRowDeleted" msprop:Generator_TableClassName="TypeTableDataTable" msprop:Generator_RowChangedName="TypeTableRowChanged" msprop:Generator_RowClassName="TypeTableRow" msprop:Generator_RowChangingName="TypeTableRowChanging" msprop:Generator_RowEvArgName="TypeTableRowChangeEvent" msprop:Generator_RowEvHandlerName="TypeTableRowChangeEventHandler" msprop:Generator_TablePropName="TypeTable" msprop:Generator_TableVarName="tableTypeTable" msprop:Generator_RowDeletingName="TypeTableRowDeleting">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Type" msprop:Generator_UserColumnName="Type" msprop:Generator_ColumnPropNameInRow="Type" msprop:Generator_ColumnVarNameInTable="columnType" msprop:Generator_ColumnPropNameInTable="TypeColumn" type="xs:string" />
+              <xs:element name="TypeString" msprop:Generator_UserColumnName="TypeString" msprop:Generator_ColumnPropNameInRow="TypeString" msprop:Generator_ColumnVarNameInTable="columnTypeString" msprop:Generator_ColumnPropNameInTable="TypeStringColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Enabled" msprop:Generator_UserColumnName="Enabled" msprop:Generator_ColumnPropNameInRow="Enabled" msprop:Generator_ColumnVarNameInTable="columnEnabled" msprop:Generator_ColumnPropNameInTable="EnabledColumn" type="xs:boolean" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:StrikeTable" />
+      <xs:field xpath="mstns:Strike" />
+    </xs:unique>
+    <xs:unique name="ExpirationTable_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:ExpirationTable" />
+      <xs:field xpath="mstns:Expiration" />
+    </xs:unique>
+    <xs:unique name="TypeTable_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:TypeTable" />
+      <xs:field xpath="mstns:Type" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

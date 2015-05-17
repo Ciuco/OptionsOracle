@@ -1,0 +1,600 @@
+<?xml version="1.0" standalone="yes"?>
+<MappingSet xmlns="http://tempuri.org/MappingSet.xsd">
+  <ExchangeTable>
+    <Code>AEB</Code>
+    <Description>AEB - Euronext Amsterdam - Cash Market</Description>
+  </ExchangeTable>
+  <ExchangeTable>
+    <Code>AMEX</Code>
+    <Description>AMEX - American Stock Exchange</Description>
+  </ExchangeTable>
+  <ExchangeTable>
+    <Code>AMEXB</Code>
+    <Description>AMEXB - American Stock Exchange - Binary Options</Description>
+  </ExchangeTable>
+  <ExchangeTable>
+    <Code>ARCA</Code>
+    <Description>ARCA - Archipelago ECN</Description>
+  </ExchangeTable>
+  <ExchangeTable>
+    <Code>ARCAEDGE</Code>
+    <Description>ARCAEDGE - ArcaEdge Alternative Trading</Description>
+  </ExchangeTable>
+  <ExchangeTable>
+    <Code>ASX</Code>
+    <Description>ASX - Australian Stock Exchange</Description>
+  </ExchangeTable>
+  <ExchangeTable>
+    <Code>ATD</Code>
+    <Description>ATD - Automated Trade Desk</Description>
+  </ExchangeTable>
+  <ExchangeTable>
+    <Code>ATH</Code>
+    <Description>ATH - Athens Stock Exchange</Description>
+  </ExchangeTable>
+  <ExchangeTable>
+    <Code>BASKET</Code>
+    <Description>BASKET - Internal Basket Stocks</Description>
+  </ExchangeTable>
+  <ExchangeTable>
+    <Code>BATS</Code>
+    <Description>BATS - BATS Trading</Description>
+  </ExchangeTable>
+  <ExchangeTable>
+    <Code>BELFOX</Code>
+    <Description>BELFOX - Euronext Brussels - Derivatives Devision</Description>
+  </ExchangeTable>
+  <ExchangeTable>
+    <Code>BEX</Code>
+    <Description>BEX - Boston Equities Exchange</Description>
+  </ExchangeTable>
+  <ExchangeTable>
+    <Code>BM</Code>
+    <Description>BM - Madrid Stock Exchange</Description>
+  </ExchangeTable>
+  <ExchangeTable>
+    <Code>BMF</Code>
+    <Description>BMF - Bolsa de Mercadorias e Futuros</Description>
+  </ExchangeTable>
+  <ExchangeTable>
+    <Code>BONDDESK</Code>
+    <Description>BONDDESK - Bond Desk Group</Description>
+  </ExchangeTable>
+  <ExchangeTable>
+    <Code>BOVESPA</Code>
+    <Description>BOVESPA - Bolsa de Valores de San Paulo</Description>
+  </ExchangeTable>
+  <ExchangeTable>
+    <Code>BOX</Code>
+    <Description>BOX - Boston Options Exchange</Description>
+  </ExchangeTable>
+  <ExchangeTable>
+    <Code>BRA</Code>
+    <Description>BRA - Bratislava Stock Exchange</Description>
+  </ExchangeTable>
+  <ExchangeTable>
+    <Code>BRUT</Code>
+    <Description>BRUT - Brut ECN</Description>
+  </ExchangeTable>
+  <ExchangeTable>
+    <Code>BTRADE</Code>
+    <Description>BTRADE - bTrade ECN</Description>
+  </ExchangeTable>
+  <ExchangeTable>
+    <Code>BUX</Code>
+    <Description>BUX - Budapest Stock Exchange</Description>
+  </ExchangeTable>
+  <ExchangeTable>
+    <Code>BVB</Code>
+    <Description>BVB - Bucharest Stock Exchange</Description>
+  </ExchangeTable>
+  <ExchangeTable>
+    <Code>BVL</Code>
+    <Description>BVL - Euronext Lisbon</Description>
+  </ExchangeTable>
+  <ExchangeTable>
+    <Code>BVME</Code>
+    <Description>BVME - Italian Exchange - Cash Market</Description>
+  </ExchangeTable>
+  <ExchangeTable>
+    <Code>CAES</Code>
+    <Description>CAES - Computer Assisted Execution System</Description>
+  </ExchangeTable>
+  <ExchangeTable>
+    <Code>CBOE</Code>
+    <Description>CBOE - Chicago Board Options Exchange</Description>
+  </ExchangeTable>
+  <ExchangeTable>
+    <Code>CBOEB</Code>
+    <Description>CBOEB - Chicago Board Options Exchange - Binary Options</Description>
+  </ExchangeTable>
+  <ExchangeTable>
+    <Code>CBOT</Code>
+    <Description>CBOT - Chicago Board of Trade</Description>
+  </ExchangeTable>
+  <ExchangeTable>
+    <Code>CBSX</Code>
+    <Description>CBSX - CBOE Stock Exchange</Description>
+  </ExchangeTable>
+  <ExchangeTable>
+    <Code>CDE</Code>
+    <Description>CDE - Montreal Exchange</Description>
+  </ExchangeTable>
+  <ExchangeTable>
+    <Code>CFE</Code>
+    <Description>CFE - CBOE Futures Exchange</Description>
+  </ExchangeTable>
+  <ExchangeTable>
+    <Code>CHX</Code>
+    <Description>CHX - Chicago Stock Exchange</Description>
+  </ExchangeTable>
+  <ExchangeTable>
+    <Code>CME</Code>
+    <Description>CME - Chicago Mercantile Exchange</Description>
+  </ExchangeTable>
+  <ExchangeTable>
+    <Code>CMEEOS</Code>
+    <Description>CMEEOS - CME Advanced Option System</Description>
+  </ExchangeTable>
+  <ExchangeTable>
+    <Code>COMEX</Code>
+    <Description>COMEX - New York Mercantile Exchange - COMEX Division</Description>
+  </ExchangeTable>
+  <ExchangeTable>
+    <Code>CPH</Code>
+    <Description>CPH - Copenhagen Stock Exchange</Description>
+  </ExchangeTable>
+  <ExchangeTable>
+    <Code>DTB</Code>
+    <Description>DTB - Eurex Germany</Description>
+  </ExchangeTable>
+  <ExchangeTable>
+    <Code>EBS</Code>
+    <Description>EBS - Swiss Exchange</Description>
+  </ExchangeTable>
+  <ExchangeTable>
+    <Code>ECBOT</Code>
+    <Description>ECBOT - Electronic Chicago Board of Trade</Description>
+  </ExchangeTable>
+  <ExchangeTable>
+    <Code>EUREXUS</Code>
+    <Description>EUREXUS - Eurex US</Description>
+  </ExchangeTable>
+  <ExchangeTable>
+    <Code>EUSETSNL</Code>
+    <Description>EUSETSNL - EUROSETS Dutch Trading Service</Description>
+  </ExchangeTable>
+  <ExchangeTable>
+    <Code>FTA</Code>
+    <Description>FTA - Euronext Amsterdam - Derivatives Market</Description>
+  </ExchangeTable>
+  <ExchangeTable>
+    <Code>FWB</Code>
+    <Description>FWB - Frankfurt Stock Exchange</Description>
+  </ExchangeTable>
+  <ExchangeTable>
+    <Code>GLOBEX</Code>
+    <Description>GLOBEX - Electronic Chicago Mercantile Exchange</Description>
+  </ExchangeTable>
+  <ExchangeTable>
+    <Code>HEX</Code>
+    <Description>HEX - HEX Integrated Markets</Description>
+  </ExchangeTable>
+  <ExchangeTable>
+    <Code>HKFE</Code>
+    <Description>HKFE - Hong Kong Futures Exchange</Description>
+  </ExchangeTable>
+  <ExchangeTable>
+    <Code>IBIS</Code>
+    <Description>IBIS - Xetra</Description>
+  </ExchangeTable>
+  <ExchangeTable>
+    <Code>IDEAL</Code>
+    <Description>IDEAL - IB Forex</Description>
+  </ExchangeTable>
+  <ExchangeTable>
+    <Code>IDEALPRO</Code>
+    <Description>IDEALPRO - IB Forex PRO</Description>
+  </ExchangeTable>
+  <ExchangeTable>
+    <Code>IDEM</Code>
+    <Description>IDEM - Italian Exchange - Derivatives Market</Description>
+  </ExchangeTable>
+  <ExchangeTable>
+    <Code>INSTINET</Code>
+    <Description>INSTINET - Instinet ECN</Description>
+  </ExchangeTable>
+  <ExchangeTable>
+    <Code>IPE</Code>
+    <Description>IPE - International Petroleum Exchange</Description>
+  </ExchangeTable>
+  <ExchangeTable>
+    <Code>ISE</Code>
+    <Description>ISE - International Securities Exchange</Description>
+  </ExchangeTable>
+  <ExchangeTable>
+    <Code>ISED</Code>
+    <Description>ISED - Irish Stock Exchange</Description>
+  </ExchangeTable>
+  <ExchangeTable>
+    <Code>ISLAND</Code>
+    <Description>ISLAND - Island ECN</Description>
+  </ExchangeTable>
+  <ExchangeTable>
+    <Code>JASDAQ</Code>
+    <Description>JASDAQ - JASDAQ Securities Exchange</Description>
+  </ExchangeTable>
+  <ExchangeTable>
+    <Code>KSE</Code>
+    <Description>KSE - Korea Stock Exchange</Description>
+  </ExchangeTable>
+  <ExchangeTable>
+    <Code>LIFFE</Code>
+    <Description>LIFFE - London International Financial Futures Exchange</Description>
+  </ExchangeTable>
+  <ExchangeTable>
+    <Code>LIFFE_NF</Code>
+    <Description>LIFFE_NF - LIFFE Commodities</Description>
+  </ExchangeTable>
+  <ExchangeTable>
+    <Code>LJSE</Code>
+    <Description>LJSE - Ljubljana Stock Exchange</Description>
+  </ExchangeTable>
+  <ExchangeTable>
+    <Code>LSE</Code>
+    <Description>LSE - London Stock Exchange</Description>
+  </ExchangeTable>
+  <ExchangeTable>
+    <Code>LSSF</Code>
+    <Description>LSSF - LIFFE Single Stock Futures Division</Description>
+  </ExchangeTable>
+  <ExchangeTable>
+    <Code>LUX</Code>
+    <Description>LUX - Luxembourg Stock Exchange</Description>
+  </ExchangeTable>
+  <ExchangeTable>
+    <Code>MATIF</Code>
+    <Description>MATIF - Euronext France - Interest Rate/Commodity Derivatives</Description>
+  </ExchangeTable>
+  <ExchangeTable>
+    <Code>MEFFRV</Code>
+    <Description>MEFFRV - Spanish Futures &amp; Options Exchange</Description>
+  </ExchangeTable>
+  <ExchangeTable>
+    <Code>MEXDER</Code>
+    <Description>MEXDER - Mexican Derivatives Exchange</Description>
+  </ExchangeTable>
+  <ExchangeTable>
+    <Code>MEXI</Code>
+    <Description>MEXI - Mexican Stock Exchange</Description>
+  </ExchangeTable>
+  <ExchangeTable>
+    <Code>MICEX</Code>
+    <Description>MICEX - Moscow Interbank Currency Exchange</Description>
+  </ExchangeTable>
+  <ExchangeTable>
+    <Code>MONEP</Code>
+    <Description>MONEP - Euronext Paris - Equity/Index Futures &amp; Options</Description>
+  </ExchangeTable>
+  <ExchangeTable>
+    <Code>NASDAQ</Code>
+    <Description>NASDAQ - Nasdaq Stock Exchange</Description>
+  </ExchangeTable>
+  <ExchangeTable>
+    <Code>NSE</Code>
+    <Description>NSE - National Stock Exchange of India</Description>
+  </ExchangeTable>
+  <ExchangeTable>
+    <Code>NSX</Code>
+    <Description>NSX - National Stock Exchange</Description>
+  </ExchangeTable>
+  <ExchangeTable>
+    <Code>NYBOT</Code>
+    <Description>NYBOT - New York Board of Trade</Description>
+  </ExchangeTable>
+  <ExchangeTable>
+    <Code>NYFE</Code>
+    <Description>NYFE - New York Futures Exchange</Description>
+  </ExchangeTable>
+  <ExchangeTable>
+    <Code>NYMEX</Code>
+    <Description>NYMEX - New York Mercantile Exchange</Description>
+  </ExchangeTable>
+  <ExchangeTable>
+    <Code>NYMEXF</Code>
+    <Description>NYMEXF - New York Mercantile Exchange - Floor</Description>
+  </ExchangeTable>
+  <ExchangeTable>
+    <Code>NYSE</Code>
+    <Description>NYSE - New York Stock Exchange</Description>
+  </ExchangeTable>
+  <ExchangeTable>
+    <Code>OMC</Code>
+    <Description>OMC - OMX Exchange - Copenhagen Derivatives</Description>
+  </ExchangeTable>
+  <ExchangeTable>
+    <Code>OMEGA</Code>
+    <Description>OMEGA - OMEGA ATS (OMEGA)</Description>
+  </ExchangeTable>
+  <ExchangeTable>
+    <Code>OMH</Code>
+    <Description>OMH - OMX Exchange - Helsinki Derivatives</Description>
+  </ExchangeTable>
+  <ExchangeTable>
+    <Code>OMLX</Code>
+    <Description>OMLX - Oslo Exchange - Derivatives Market</Description>
+  </ExchangeTable>
+  <ExchangeTable>
+    <Code>OMS</Code>
+    <Description>OMS - OMX Exchange - Swedish Derivatives</Description>
+  </ExchangeTable>
+  <ExchangeTable>
+    <Code>ONE</Code>
+    <Description>ONE - OneChicago</Description>
+  </ExchangeTable>
+  <ExchangeTable>
+    <Code>OSE</Code>
+    <Description>OSE - Oslo Exchange - Stock Market</Description>
+  </ExchangeTable>
+  <ExchangeTable>
+    <Code>OSE.JPN</Code>
+    <Description>OSE.JPN - Osaka Securities Exchange</Description>
+  </ExchangeTable>
+  <ExchangeTable>
+    <Code>OTC</Code>
+    <Description>OTC - Over-the-counter</Description>
+  </ExchangeTable>
+  <ExchangeTable>
+    <Code>OTCBB</Code>
+    <Description>OTCBB - OTC Bulletin Board</Description>
+  </ExchangeTable>
+  <ExchangeTable>
+    <Code>OTOB</Code>
+    <Description>OTOB - Vienna Exchange - Derivatives Market</Description>
+  </ExchangeTable>
+  <ExchangeTable>
+    <Code>PBOT</Code>
+    <Description>PBOT - Philadelphia Board of Trade</Description>
+  </ExchangeTable>
+  <ExchangeTable>
+    <Code>PHLX</Code>
+    <Description>PHLX - Philadelphia Stock Exchange</Description>
+  </ExchangeTable>
+  <ExchangeTable>
+    <Code>PINK</Code>
+    <Description>PINK - Pink Sheets</Description>
+  </ExchangeTable>
+  <ExchangeTable>
+    <Code>PRA</Code>
+    <Description>PRA - Prague Stock Exchange</Description>
+  </ExchangeTable>
+  <ExchangeTable>
+    <Code>PSE</Code>
+    <Description>PSE - Pacific Exchange</Description>
+  </ExchangeTable>
+  <ExchangeTable>
+    <Code>RTS</Code>
+    <Description>RTS - RTS Stock Exchange</Description>
+  </ExchangeTable>
+  <ExchangeTable>
+    <Code>SBF</Code>
+    <Description>SBF - Euronext Paris - Stock Market</Description>
+  </ExchangeTable>
+  <ExchangeTable>
+    <Code>SBVM</Code>
+    <Description>SBVM - Euronext Brussels - Stock Market</Description>
+  </ExchangeTable>
+  <ExchangeTable>
+    <Code>SEHK</Code>
+    <Description>SEHK - Stock Exchange of Hong Kong</Description>
+  </ExchangeTable>
+  <ExchangeTable>
+    <Code>SFB</Code>
+    <Description>SFB - Stockholm Exchange - Stock Market</Description>
+  </ExchangeTable>
+  <ExchangeTable>
+    <Code>SGX</Code>
+    <Description>SGX - Singapore Exchange</Description>
+  </ExchangeTable>
+  <ExchangeTable>
+    <Code>SHSE</Code>
+    <Description>SHSE - Shanghai Stock Exchange</Description>
+  </ExchangeTable>
+  <ExchangeTable>
+    <Code>SMART</Code>
+    <Description>SMART - Smart ECN</Description>
+  </ExchangeTable>
+  <ExchangeTable>
+    <Code>SNFE</Code>
+    <Description>SNFE - Sydney futures Exchange</Description>
+  </ExchangeTable>
+  <ExchangeTable>
+    <Code>SOFFEX</Code>
+    <Description>SOFFEX - Eurex Switzerland</Description>
+  </ExchangeTable>
+  <ExchangeTable>
+    <Code>SUPERSOES</Code>
+    <Description>SUPERSOES - Nasdaq SuperSOES System</Description>
+  </ExchangeTable>
+  <ExchangeTable>
+    <Code>SWB</Code>
+    <Description>SWB - Stuttgart Stock Exchange</Description>
+  </ExchangeTable>
+  <ExchangeTable>
+    <Code>SZSE</Code>
+    <Description>SZSE - Shenzhen Stock Exchange</Description>
+  </ExchangeTable>
+  <ExchangeTable>
+    <Code>TAI</Code>
+    <Description>TAI - Taiwan Stock Exchange</Description>
+  </ExchangeTable>
+  <ExchangeTable>
+    <Code>TAIFEX</Code>
+    <Description>TAIFEX - Taiwan Futures Exchange</Description>
+  </ExchangeTable>
+  <ExchangeTable>
+    <Code>TIFFE</Code>
+    <Description>TIFFE - Tokyo International Financial Futures Exchange</Description>
+  </ExchangeTable>
+  <ExchangeTable>
+    <Code>TSE</Code>
+    <Description>TSE - Toronto Stock Exchange</Description>
+  </ExchangeTable>
+  <ExchangeTable>
+    <Code>TSE.JPN</Code>
+    <Description>TSE.JPN - Tokyo Stock Exchange</Description>
+  </ExchangeTable>
+  <ExchangeTable>
+    <Code>VALUE</Code>
+    <Description>VALUE - IB Value Exchange</Description>
+  </ExchangeTable>
+  <ExchangeTable>
+    <Code>VENTURE</Code>
+    <Description>VENTURE - TSX Venture Exchange</Description>
+  </ExchangeTable>
+  <ExchangeTable>
+    <Code>VIRTX</Code>
+    <Description>VIRTX - VIRT-X</Description>
+  </ExchangeTable>
+  <ExchangeTable>
+    <Code>VSE</Code>
+    <Description>VSE - Vienna Exchange - Stock Market</Description>
+  </ExchangeTable>
+  <ExchangeTable>
+    <Code>VVPB</Code>
+    <Description>VVPB - OMX Exchange - Lithuania</Description>
+  </ExchangeTable>
+  <ExchangeTable>
+    <Code>WINNER</Code>
+    <Description>WINNER - Winterfloods Securities Limited</Description>
+  </ExchangeTable>
+  <ExchangeTable>
+    <Code>WSE</Code>
+    <Description>WSE - Warsaw Stock Exchange</Description>
+  </ExchangeTable>
+  <ExchangeTable>
+    <Code>ZSE.HRV</Code>
+    <Description>ZSE.HRV - Zagreb Stock Exchange</Description>
+  </ExchangeTable>
+
+  <CurrencyTable>
+    <Code>AUD</Code>
+    <Description>Australian Dollar (AUD)</Description>
+  </CurrencyTable>
+  <CurrencyTable>
+    <Code>ATS</Code>
+    <Description>Austrian Schilling (ATS)</Description>
+  </CurrencyTable>
+  <CurrencyTable>
+    <Code>BEF</Code>
+    <Description>Belgian Franc (BEF)</Description>
+  </CurrencyTable>
+  <CurrencyTable>
+    <Code>GBP</Code>
+    <Description>British Pound (GBP)</Description>
+  </CurrencyTable>
+  <CurrencyTable>
+    <Code>CAD</Code>
+    <Description>Canadian Dollar (CAD)</Description>
+  </CurrencyTable>
+  <CurrencyTable>
+    <Code>CZK</Code>
+    <Description>Czech Koruna (CZK)</Description>
+  </CurrencyTable>
+  <CurrencyTable>
+    <Code>DKK</Code>
+    <Description>Danish Kroner (DKK)</Description>
+  </CurrencyTable>
+  <CurrencyTable>
+    <Code>EUR</Code>
+    <Description>Euro (EUR)</Description>
+  </CurrencyTable>
+  <CurrencyTable>
+    <Code>FRF</Code>
+    <Description>French Franc (FRF)</Description>
+  </CurrencyTable>
+  <CurrencyTable>
+    <Code>DEM</Code>
+    <Description>German Deutsche Mark (DEM)</Description>
+  </CurrencyTable>
+  <CurrencyTable>
+    <Code>GRD</Code>
+    <Description>Greece Drachma (GRD)</Description>
+  </CurrencyTable>
+  <CurrencyTable>
+    <Code>HKD</Code>
+    <Description>Hong Kong Dollar (HKD)</Description>
+  </CurrencyTable>
+  <CurrencyTable>
+    <Code>HUF</Code>
+    <Description>Hungarian Forint (HUF)</Description>
+  </CurrencyTable>
+  <CurrencyTable>
+    <Code>IEP</Code>
+    <Description>Irish Punt (IEP)</Description>
+  </CurrencyTable>
+  <CurrencyTable>
+    <Code>ITL</Code>
+    <Description>Italian Lira (ITL)</Description>
+  </CurrencyTable>
+  <CurrencyTable>
+    <Code>JPY</Code>
+    <Description>Japanese Yen (JPY)</Description>
+  </CurrencyTable>
+  <CurrencyTable>
+    <Code>MXN</Code>
+    <Description>Mexican Peso (MXN)</Description>
+  </CurrencyTable>
+  <CurrencyTable>
+    <Code>NLG</Code>
+    <Description>Netherlands Guilder (NLG)</Description>
+  </CurrencyTable>
+  <CurrencyTable>
+    <Code>NZD</Code>
+    <Description>New Zealand Dollar (NZD)</Description>
+  </CurrencyTable>
+  <CurrencyTable>
+    <Code>NOK</Code>
+    <Description>Norwegian Krone (NOK)</Description>
+  </CurrencyTable>
+  <CurrencyTable>
+    <Code>PLN</Code>
+    <Description>Polish Zloty (PLN)</Description>
+  </CurrencyTable>
+  <CurrencyTable>
+    <Code>PTE</Code>
+    <Description>Portuguese Escudo (PTE)</Description>
+  </CurrencyTable>
+  <CurrencyTable>
+    <Code>RUB</Code>
+    <Description>Russian Ruble (RUB)</Description>
+  </CurrencyTable>
+  <CurrencyTable>
+    <Code>SGD</Code>
+    <Description>Singapore Dollar (SGD)</Description>
+  </CurrencyTable>
+  <CurrencyTable>
+    <Code>SKK</Code>
+    <Description>Slovakian Koruna (SKK)</Description>
+  </CurrencyTable>
+  <CurrencyTable>
+    <Code>KRW</Code>
+    <Description>South Korean Won (KRW)</Description>
+  </CurrencyTable>
+  <CurrencyTable>
+    <Code>ESP</Code>
+    <Description>Spanish Peseta (ESP)</Description>
+  </CurrencyTable>
+  <CurrencyTable>
+    <Code>SEK</Code>
+    <Description>Swedish Kroner (SEK)</Description>
+  </CurrencyTable>
+  <CurrencyTable>
+    <Code>CHF</Code>
+    <Description>Swiss Franc (CHF)</Description>
+  </CurrencyTable>
+  <CurrencyTable>
+    <Code>USD</Code>
+    <Description>U.S. Dollar (USD)</Description>
+  </CurrencyTable>
+</MappingSet>
