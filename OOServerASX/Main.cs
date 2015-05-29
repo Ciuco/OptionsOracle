@@ -282,31 +282,31 @@ namespace OOServerASX
                 }
 
                 // get bid price            
-                nd = prs.GetXmlNodeByPath(table_nd, @"tr(2)\td(3)");
+                nd = prs.GetXmlNodeByPath(table_nd, @"tr(2)\td(4)");
                 quote.price.bid = double.NaN;
                 if (nd != null && nd.InnerText != null)
                     double.TryParse(System.Web.HttpUtility.HtmlDecode(nd.InnerText).Trim(), NumberStyles.Number, ci, out quote.price.bid);
 
                 // get ask price            
-                nd = prs.GetXmlNodeByPath(table_nd, @"tr(2)\td(4)");
+                nd = prs.GetXmlNodeByPath(table_nd, @"tr(2)\td(5)");
                 quote.price.ask = double.NaN;
                 if (nd != null && nd.InnerText != null)
                     double.TryParse(System.Web.HttpUtility.HtmlDecode(nd.InnerText).Trim(), NumberStyles.Number, ci, out quote.price.ask);
 
                 // get low price            
-                nd = prs.GetXmlNodeByPath(table_nd, @"tr(2)\td(7)");
+                nd = prs.GetXmlNodeByPath(table_nd, @"tr(2)\td(8)");
                 quote.price.low = double.NaN;
                 if (nd != null && nd.InnerText != null)
                     double.TryParse(System.Web.HttpUtility.HtmlDecode(nd.InnerText).Trim(), NumberStyles.Number, ci, out quote.price.low);
 
                 // get high price            
-                nd = prs.GetXmlNodeByPath(table_nd, @"tr(2)\td(6)");
+                nd = prs.GetXmlNodeByPath(table_nd, @"tr(2)\td(7)");
                 quote.price.high = double.NaN;
                 if (nd != null && nd.InnerText != null)
                     double.TryParse(System.Web.HttpUtility.HtmlDecode(nd.InnerText).Trim(), NumberStyles.Number, ci, out quote.price.high);
 
                 // get volume                     
-                nd = prs.GetXmlNodeByPath(table_nd, @"tr(2)\td(8)");
+                nd = prs.GetXmlNodeByPath(table_nd, @"tr(2)\td(9)");
                 quote.volume.total = double.NaN;
                 if (nd != null && nd.InnerText != null)
                     double.TryParse(System.Web.HttpUtility.HtmlDecode(nd.InnerText).Trim(), NumberStyles.Number, ci, out quote.volume.total);
@@ -376,7 +376,7 @@ namespace OOServerASX
                     }
                     catch { continue; }
 
-                    // get strike price
+                    // get strike price/exercise
                     nd = prs.GetXmlNodeByPath(row_nd, @"td(3)");
                     text = (nd != null && nd.InnerText != null) ? System.Web.HttpUtility.HtmlDecode(nd.InnerText).Trim() : null;
                     if (text == null) continue;
